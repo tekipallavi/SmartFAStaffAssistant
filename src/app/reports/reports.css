@@ -38,3 +38,48 @@ button:hover {
   background: rgb(225, 38, 28) !important;
   color: white !important;
 }
+
+/* Flag ribbon styles */
+.case-name-cell {
+  position: relative;
+  padding-left: 1.5rem !important;
+}
+
+.flag-ribbon {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 0.4rem;
+  height: 1.5rem;
+  background-color: #ffd700;
+  border-radius: 2px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.data-row {
+  position: relative;
+}
+
+.data-row.flagged-row {
+  background-color: #fffacd !important;
+}
+
+.data-row.flagged-row:hover {
+  background-color: #fffdcc !important;
+}
+
+/* Context menu styling */
+::ng-deep .mat-mdc-menu-panel {
+  min-width: 200px !important;
+}
+
+::ng-deep .mat-mdc-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+::ng-deep .mat-icon {
+  color: rgb(225, 38, 28);
+}

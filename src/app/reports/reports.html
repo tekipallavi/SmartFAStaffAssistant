@@ -6,7 +6,10 @@
   <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
     <ng-container matColumnDef="caseName">
       <th mat-header-cell *matHeaderCellDef>Case Name</th>
-      <td mat-cell *matCellDef="let element">{{element.caseName}}</td>
+      <td mat-cell *matCellDef="let element" class="case-name-cell" [class.flagged]="isFlagged(element.caseName)">
+        <span class="flag-ribbon" *ngIf="isFlagged(element.caseName)"></span>
+        {{element.caseName}}
+      </td>
     </ng-container>
     <ng-container matColumnDef="submittedDate">
       <th mat-header-cell *matHeaderCellDef>Submitted Date</th>
@@ -39,7 +42,29 @@
       </td>
     </ng-container>
     <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+    <tr mat-row 
+        *matRowDef="let row; columns: displayedColumns;"
+        [matMenuTriggerFor]="contextMenu"
+        (contextmenu)="onRowRightClick($event, row)"
+        class="data-row"
+        [class.flagged-row]="isFlagged(row.caseName)">
+    </tr>
   </table>
-  <mat-paginator [pageSize]="pageSize" [pageSizeOptions]="[5, 10, 20]" (page)="onPageChange($event)" [length]="dataSource.length"></mat-paginator>
-</div>
+  <mat-paginator [pageSize]="pageSize" [pageSizeOptions]="[5, 10, 20, 50]" (page)="onPageChange($event)" [length]="dataSource.length"></mat-paginator>
+
+  <!-- Context Menu -->
+  <mat-menu #contextMenu="matMenu">
+    <button mat-menu-item (click)="flagCase(selectedRow!.caseName, selectedRow!.matchId)" *ngIf="selectedRow && !isFlagged(selectedRow.caseName)">
+      <mat-icon>flag</mat-icon>
+      <span>Add Flag</span>
+    </button>
+    <button mat-menu-item (click)="unflagCase(selectedRow!.caseName)" *ngIf="selectedRow && isFlagged(selectedRow.caseName)">
+      <mat-icon>flag_off</mat-icon>
+      <span>Remove Flag</span>
+    </button>
+    <mat-divider></mat-divider>
+    <button mat-menu-item (click)="addReminder(selectedRow!.caseName, selectedRow!.matchId)" *ngIf="selectedRow">
+      <mat-icon>edit_note</mat-icon>
+      <span>Add Reminder</span>
+    </button>
+  </mat-menu>

@@ -5,3 +5,165 @@
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
+
+h2 {
+  color: #333;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 2rem;
+  color: #999;
+  font-style: italic;
+}
+
+.activities-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.activity-card {
+  border-left: 4px solid rgb(225, 38, 28);
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+.activity-card:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.activity-card.action-flag {
+  background-color: #fffacd;
+}
+
+.activity-card.action-reminder {
+  background-color: #f0f7ff;
+}
+
+mat-card-header {
+  padding: 1rem;
+  margin: 0;
+}
+
+.activity-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.activity-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.activity-icon.warn {
+  background-color: #ffd700;
+  color: #333;
+}
+
+.activity-icon.primary {
+  background-color: rgb(225, 38, 28);
+  color: white;
+}
+
+.activity-icon.default {
+  background-color: #e0e0e0;
+  color: #666;
+}
+
+.activity-icon mat-icon {
+  font-size: 1.2rem;
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+.activity-info {
+  flex: 1;
+}
+
+.activity-title {
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 0.3rem;
+}
+
+.activity-title strong {
+  color: rgb(225, 38, 28);
+}
+
+.activity-time {
+  display: flex;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  color: #999;
+}
+
+.time-ago {
+  font-weight: 500;
+}
+
+.time-full {
+  opacity: 0.7;
+}
+
+mat-divider {
+  margin: 0 !important;
+}
+
+mat-card-content {
+  padding: 1rem;
+  padding-top: 0.5rem;
+}
+
+.reminder-content {
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 1rem;
+  border-radius: 4px;
+  border-left: 3px solid rgb(225, 38, 28);
+}
+
+.reminder-content strong {
+  color: rgb(225, 38, 28);
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+.reminder-content p {
+  margin: 0;
+  color: #333;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .activities-container {
+    padding: 1rem;
+    margin: 0.5rem;
+  }
+
+  .activity-header {
+    flex-direction: column;
+  }
+
+  .activity-icon {
+    width: 2rem;
+    height: 2rem;
+  }
+
+  .activity-time {
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+}

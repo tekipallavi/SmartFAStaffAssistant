@@ -1,4 +1,36 @@
 <div class="activities-container">
   <h2>Activities</h2>
-  <p>This section will show recent activities and logs.</p>
-</div>
+  
+  <div *ngIf="actions.length === 0" class="empty-state">
+    <p>No activities yet. Flag cases or add reminders to see them here.</p>
+  </div>
+
+  <div class="activities-list" *ngIf="actions.length > 0">
+    <mat-card *ngFor="let action of actions" class="activity-card" [ngClass]="'action-' + action.action">
+      <mat-card-header>
+        <div class="activity-header">
+          <div class="activity-icon" [ngClass]="getActionColor(action)">
+            <mat-icon>{{ getActionIcon(action) }}</mat-icon>
+          </div>
+          <div class="activity-info">
+            <div class="activity-title">
+              <strong>{{ action.caseName }}</strong> - {{ getActionLabel(action) }}
+            </div>
+            <div class="activity-time">
+              <span class="time-ago">{{ getTimeAgo(action.timestamp) }}</span>
+              <span class="time-full">{{ formatDate(action.timestamp) }}</span>
+            </div>
+          </div>
+        </div>
+      </mat-card-header>
+
+      <mat-divider></mat-divider>
+
+      <mat-card-content *ngIf="action.action === 'reminder' && action.reminderText">
+        <div class="reminder-content">
+          <strong>Reminder:</strong>
+          <p>{{ action.reminderText }}</p>
+        </div>
+      </mat-card-content>
+    </mat-card>
+  </div>
