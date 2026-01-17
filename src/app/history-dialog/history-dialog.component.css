@@ -1,0 +1,42 @@
+.dialog-container {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+}
+
+.header {
+  background-color: #c8102e; /* FA Red */
+  color: white;
+  padding: 16px;
+  text-align: center;
+}
+
+.header h2 {
+  margin: 0;
+  font-size: 24px;
+}
+
+.content {
+  padding: 20px;
+}
+
+.full-width {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+button {
+  margin-top: 16px;
+}
+
+.analysis {
+  margin-top: 20px;
+  padding: 16px;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+}
+
+.actions {
+  padding: 16px;
+  text-align: right;
+  background-color: #f5f5f5;
+}

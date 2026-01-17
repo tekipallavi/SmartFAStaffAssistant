@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Wayne Rooney",
+    "history": "Multiple incidents of dissent and aggressive behavior on pitch.",
+    "team": "Manchester United",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 2,
+    "name": "David Beckham",
+    "history": "Known for sportsmanship, minimal disciplinary issues.",
+    "team": "Retired",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 3,
+    "name": "Cristiano Ronaldo",
+    "history": "Occasional bookings for simulation and dissent.",
+    "team": "Al Nassr",
+    "socialMediaActivity": "Very High"
+  },
+  {
+    "id": 4,
+    "name": "Lionel Messi",
+    "history": "Rare disciplinary actions, focused on play.",
+    "team": "Inter Miami",
+    "socialMediaActivity": "Very High"
+  },
+  {
+    "id": 5,
+    "name": "Neymar Jr",
+    "history": "Frequent bookings for diving and petulance.",
+    "team": "Al Hilal",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 6,
+    "name": "Kylian Mbappe",
+    "history": "Some incidents of simulation and dissent.",
+    "team": "Paris Saint-Germain",
+    "socialMediaActivity": "Very High"
+  },
+  {
+    "id": 7,
+    "name": "Erling Haaland",
+    "history": "Minimal issues, focused on scoring.",
+    "team": "Manchester City",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 8,
+    "name": "Mohamed Salah",
+    "history": "Occasional dissent, generally well-behaved.",
+    "team": "Liverpool",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 9,
+    "name": "Kevin De Bruyne",
+    "history": "Rare bookings, excellent conduct.",
+    "team": "Manchester City",
+    "socialMediaActivity": "Medium"
+  },
+  {
+    "id": 10,
+    "name": "Harry Kane",
+    "history": "Some simulation incidents.",
+    "team": "Bayern Munich",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 11,
+    "name": "Jude Bellingham",
+    "history": "Young player, minimal disciplinary record.",
+    "team": "Real Madrid",
+    "socialMediaActivity": "Very High"
+  },
+  {
+    "id": 12,
+    "name": "Bukayo Saka",
+    "history": "Generally clean record.",
+    "team": "Arsenal",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 13,
+    "name": "Phil Foden",
+    "history": "Occasional bookings for youth.",
+    "team": "Manchester City",
+    "socialMediaActivity": "Medium"
+  },
+  {
+    "id": 14,
+    "name": "Trent Alexander-Arnold",
+    "history": "Some dissent issues.",
+    "team": "Liverpool",
+    "socialMediaActivity": "Medium"
+  },
+  {
+    "id": 15,
+    "name": "Marcus Rashford",
+    "history": "Bookings for aggression.",
+    "team": "Manchester United",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 16,
+    "name": "Bruno Fernandes",
+    "history": "Frequent bookings for dissent.",
+    "team": "Manchester United",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 17,
+    "name": "Son Heung-min",
+    "history": "Generally well-behaved.",
+    "team": "Tottenham",
+    "socialMediaActivity": "Medium"
+  },
+  {
+    "id": 18,
+    "name": "Raheem Sterling",
+    "history": "Some simulation incidents.",
+    "team": "Chelsea",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 19,
+    "name": "Jamie Vardy",
+    "history": "Occasional dissent.",
+    "team": "Leicester",
+    "socialMediaActivity": "Medium"
+  },
+  {
+    "id": 20,
+    "name": "Harry Maguire",
+    "history": "Recent bookings for errors.",
+    "team": "Manchester United",
+    "socialMediaActivity": "Medium"
+  },
+  {
+    "id": 21,
+    "name": "Mason Mount",
+    "history": "Clean record.",
+    "team": "Manchester United",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 22,
+    "name": "Callum Wilson",
+    "history": "Minimal issues.",
+    "team": "Newcastle",
+    "socialMediaActivity": "Medium"
+  },
+  {
+    "id": 23,
+    "name": "Jarrod Bowen",
+    "history": "Some bookings.",
+    "team": "West Ham",
+    "socialMediaActivity": "Medium"
+  },
+  {
+    "id": 24,
+    "name": "Che Adams",
+    "history": "Generally compliant.",
+    "team": "Southampton",
+    "socialMediaActivity": "Low"
+  },
+  {
+    "id": 25,
+    "name": "Alexandre Lacazette",
+    "history": "Occasional issues.",
+    "team": "Lyon",
+    "socialMediaActivity": "Medium"
+  },
+  {
+    "id": 26,
+    "name": "Ivan Toney",
+    "history": "Recent simulation bookings.",
+    "team": "Brentford",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 27,
+    "name": "Chris Wood",
+    "history": "Minimal disciplinary actions.",
+    "team": "Nottingham Forest",
+    "socialMediaActivity": "Low"
+  },
+  {
+    "id": 28,
+    "name": "Rodrigo",
+    "history": "Some dissent.",
+    "team": "Leeds",
+    "socialMediaActivity": "Medium"
+  },
+  {
+    "id": 29,
+    "name": "Declan Rice",
+    "history": "Clean record.",
+    "team": "Arsenal",
+    "socialMediaActivity": "High"
+  },
+  {
+    "id": 30,
+    "name": "Martin Odegaard",
+    "history": "Excellent conduct.",
+    "team": "Arsenal",
+    "socialMediaActivity": "High"
+  }
+]

@@ -1,0 +1,40 @@
+.reports-container {
+  padding: 2rem;
+  background-color: white;
+  margin: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+table {
+  width: 100%;
+}
+
+button {
+  color: black !important;
+  border-color: rgb(225, 38, 28);
+}
+
+button:hover {
+  background-color: rgb(225, 38, 28) !important;
+  color: white !important;
+}
+
+.mat-mdc-button {
+  color: black !important;
+  background: none !important;
+  border: none !important;
+  text-decoration: underline;
+}
+
+.mat-mdc-button:hover {
+  background: rgb(225, 38, 28) !important;
+  color: white !important;
+}

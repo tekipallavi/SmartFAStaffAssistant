@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 1,
+    "offenderId": 17,
+    "description": "Abusive language",
+    "severity": "High",
+    "date": "2025-10-06",
+    "status": "Resolved"
+  },
+  {
+    "id": 2,
+    "offenderId": 25,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-03-18",
+    "status": "Pending"
+  },
+  {
+    "id": 3,
+    "offenderId": 10,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Low",
+    "date": "2025-07-19",
+    "status": "Resolved"
+  },
+  {
+    "id": 4,
+    "offenderId": 3,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-12-10",
+    "status": "Under Review"
+  },
+  {
+    "id": 5,
+    "offenderId": 29,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-06-23",
+    "status": "Resolved"
+  },
+  {
+    "id": 6,
+    "offenderId": 28,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-09-11",
+    "status": "Pending"
+  },
+  {
+    "id": 7,
+    "offenderId": 27,
+    "description": "Violent conduct",
+    "severity": "Medium",
+    "date": "2026-01-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 8,
+    "offenderId": 16,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-06-27",
+    "status": "Under Review"
+  },
+  {
+    "id": 9,
+    "offenderId": 12,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-10-19",
+    "status": "Resolved"
+  },
+  {
+    "id": 10,
+    "offenderId": 25,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Low",
+    "date": "2025-03-09",
+    "status": "Resolved"
+  },
+  {
+    "id": 11,
+    "offenderId": 19,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-06-15",
+    "status": "Pending"
+  },
+  {
+    "id": 12,
+    "offenderId": 15,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-10-14",
+    "status": "Pending"
+  },
+  {
+    "id": 13,
+    "offenderId": 12,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-06-25",
+    "status": "Pending"
+  },
+  {
+    "id": 14,
+    "offenderId": 16,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-04-06",
+    "status": "Pending"
+  },
+  {
+    "id": 15,
+    "offenderId": 14,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2026-01-02",
+    "status": "Resolved"
+  },
+  {
+    "id": 16,
+    "offenderId": 10,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-06-03",
+    "status": "Under Review"
+  },
+  {
+    "id": 17,
+    "offenderId": 22,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-11-09",
+    "status": "Resolved"
+  },
+  {
+    "id": 18,
+    "offenderId": 25,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-09-10",
+    "status": "Under Review"
+  },
+  {
+    "id": 19,
+    "offenderId": 12,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-11-14",
+    "status": "Pending"
+  },
+  {
+    "id": 20,
+    "offenderId": 5,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Low",
+    "date": "2025-11-11",
+    "status": "Resolved"
+  },
+  {
+    "id": 21,
+    "offenderId": 24,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-12-31",
+    "status": "Under Review"
+  },
+  {
+    "id": 22,
+    "offenderId": 15,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-12-31",
+    "status": "Pending"
+  },
+  {
+    "id": 23,
+    "offenderId": 4,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-06-11",
+    "status": "Resolved"
+  },
+  {
+    "id": 24,
+    "offenderId": 4,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-03-19",
+    "status": "Resolved"
+  },
+  {
+    "id": 25,
+    "offenderId": 16,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-06-22",
+    "status": "Pending"
+  },
+  {
+    "id": 26,
+    "offenderId": 7,
+    "description": "Spitting",
+    "severity": "Severe",
+    "date": "2025-03-01",
+    "status": "Under Review"
+  },
+  {
+    "id": 27,
+    "offenderId": 21,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-10-22",
+    "status": "Resolved"
+  },
+  {
+    "id": 28,
+    "offenderId": 2,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-11-17",
+    "status": "Resolved"
+  },
+  {
+    "id": 29,
+    "offenderId": 17,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-12-26",
+    "status": "Pending"
+  },
+  {
+    "id": 30,
+    "offenderId": 12,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-11-14",
+    "status": "Pending"
+  },
+  {
+    "id": 31,
+    "offenderId": 17,
+    "description": "Spitting",
+    "severity": "Low",
+    "date": "2025-07-11",
+    "status": "Pending"
+  },
+  {
+    "id": 32,
+    "offenderId": 26,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-10-23",
+    "status": "Pending"
+  },
+  {
+    "id": 33,
+    "offenderId": 11,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2026-01-11",
+    "status": "Pending"
+  },
+  {
+    "id": 34,
+    "offenderId": 2,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Low",
+    "date": "2025-02-09",
+    "status": "Under Review"
+  },
+  {
+    "id": 35,
+    "offenderId": 27,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-07-12",
+    "status": "Pending"
+  },
+  {
+    "id": 36,
+    "offenderId": 4,
+    "description": "Aggressive behavior",
+    "severity": "Low",
+    "date": "2025-10-24",
+    "status": "Pending"
+  },
+  {
+    "id": 37,
+    "offenderId": 20,
+    "description": "Violent conduct",
+    "severity": "Severe",
+    "date": "2025-12-10",
+    "status": "Resolved"
+  },
+  {
+    "id": 38,
+    "offenderId": 13,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-09-05",
+    "status": "Resolved"
+  },
+  {
+    "id": 39,
+    "offenderId": 12,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-09-05",
+    "status": "Resolved"
+  },
+  {
+    "id": 40,
+    "offenderId": 15,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-08-28",
+    "status": "Under Review"
+  },
+  {
+    "id": 41,
+    "offenderId": 13,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-04-19",
+    "status": "Resolved"
+  },
+  {
+    "id": 42,
+    "offenderId": 6,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-11-27",
+    "status": "Pending"
+  },
+  {
+    "id": 43,
+    "offenderId": 27,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-09-18",
+    "status": "Resolved"
+  },
+  {
+    "id": 44,
+    "offenderId": 28,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-08-10",
+    "status": "Resolved"
+  },
+  {
+    "id": 45,
+    "offenderId": 20,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-09-08",
+    "status": "Resolved"
+  },
+  {
+    "id": 46,
+    "offenderId": 9,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-02-22",
+    "status": "Resolved"
+  },
+  {
+    "id": 47,
+    "offenderId": 6,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-04-05",
+    "status": "Resolved"
+  },
+  {
+    "id": 48,
+    "offenderId": 10,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-06-19",
+    "status": "Under Review"
+  },
+  {
+    "id": 49,
+    "offenderId": 15,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-02-10",
+    "status": "Resolved"
+  },
+  {
+    "id": 50,
+    "offenderId": 18,
+    "description": "Abusive language",
+    "severity": "High",
+    "date": "2025-08-10",
+    "status": "Resolved"
+  },
+  {
+    "id": 51,
+    "offenderId": 12,
+    "description": "Violent conduct",
+    "severity": "Severe",
+    "date": "2025-12-16",
+    "status": "Under Review"
+  },
+  {
+    "id": 52,
+    "offenderId": 12,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-09-30",
+    "status": "Under Review"
+  },
+  {
+    "id": 53,
+    "offenderId": 15,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-11-05",
+    "status": "Under Review"
+  },
+  {
+    "id": 54,
+    "offenderId": 10,
+    "description": "Violent conduct",
+    "severity": "Severe",
+    "date": "2025-02-05",
+    "status": "Pending"
+  },
+  {
+    "id": 55,
+    "offenderId": 28,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-04-29",
+    "status": "Pending"
+  },
+  {
+    "id": 56,
+    "offenderId": 10,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-03-28",
+    "status": "Resolved"
+  },
+  {
+    "id": 57,
+    "offenderId": 2,
+    "description": "Spitting",
+    "severity": "Severe",
+    "date": "2025-12-18",
+    "status": "Under Review"
+  },
+  {
+    "id": 58,
+    "offenderId": 21,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-02-06",
+    "status": "Resolved"
+  },
+  {
+    "id": 59,
+    "offenderId": 29,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2026-01-12",
+    "status": "Resolved"
+  },
+  {
+    "id": 60,
+    "offenderId": 25,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-08-15",
+    "status": "Resolved"
+  },
+  {
+    "id": 61,
+    "offenderId": 30,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-07-22",
+    "status": "Under Review"
+  },
+  {
+    "id": 62,
+    "offenderId": 23,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-04-29",
+    "status": "Resolved"
+  },
+  {
+    "id": 63,
+    "offenderId": 16,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-04-23",
+    "status": "Resolved"
+  },
+  {
+    "id": 64,
+    "offenderId": 24,
+    "description": "Spitting",
+    "severity": "Low",
+    "date": "2025-04-24",
+    "status": "Pending"
+  },
+  {
+    "id": 65,
+    "offenderId": 12,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-11-03",
+    "status": "Resolved"
+  },
+  {
+    "id": 66,
+    "offenderId": 21,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-09-16",
+    "status": "Resolved"
+  },
+  {
+    "id": 67,
+    "offenderId": 28,
+    "description": "Offensive language",
+    "severity": "Severe",
+    "date": "2025-02-20",
+    "status": "Pending"
+  },
+  {
+    "id": 68,
+    "offenderId": 23,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-04-29",
+    "status": "Under Review"
+  },
+  {
+    "id": 69,
+    "offenderId": 5,
+    "description": "Time-wasting",
+    "severity": "Medium",
+    "date": "2025-10-17",
+    "status": "Resolved"
+  },
+  {
+    "id": 70,
+    "offenderId": 10,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-11-29",
+    "status": "Pending"
+  },
+  {
+    "id": 71,
+    "offenderId": 7,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-03-12",
+    "status": "Resolved"
+  },
+  {
+    "id": 72,
+    "offenderId": 6,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-06-01",
+    "status": "Under Review"
+  },
+  {
+    "id": 73,
+    "offenderId": 30,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2026-01-11",
+    "status": "Pending"
+  },
+  {
+    "id": 74,
+    "offenderId": 9,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-12-05",
+    "status": "Resolved"
+  },
+  {
+    "id": 75,
+    "offenderId": 29,
+    "description": "Violent conduct",
+    "severity": "Severe",
+    "date": "2025-02-27",
+    "status": "Pending"
+  },
+  {
+    "id": 76,
+    "offenderId": 21,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-08-09",
+    "status": "Under Review"
+  },
+  {
+    "id": 77,
+    "offenderId": 25,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-12-30",
+    "status": "Under Review"
+  },
+  {
+    "id": 78,
+    "offenderId": 27,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-10-09",
+    "status": "Under Review"
+  },
+  {
+    "id": 79,
+    "offenderId": 23,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-07-31",
+    "status": "Pending"
+  },
+  {
+    "id": 80,
+    "offenderId": 14,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-12-03",
+    "status": "Under Review"
+  },
+  {
+    "id": 81,
+    "offenderId": 5,
+    "description": "Aggressive behavior",
+    "severity": "Low",
+    "date": "2025-07-15",
+    "status": "Under Review"
+  },
+  {
+    "id": 82,
+    "offenderId": 28,
+    "description": "Spitting",
+    "severity": "Medium",
+    "date": "2025-09-15",
+    "status": "Under Review"
+  },
+  {
+    "id": 83,
+    "offenderId": 1,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-05-29",
+    "status": "Resolved"
+  },
+  {
+    "id": 84,
+    "offenderId": 8,
+    "description": "Spitting",
+    "severity": "Medium",
+    "date": "2025-10-30",
+    "status": "Pending"
+  },
+  {
+    "id": 85,
+    "offenderId": 24,
+    "description": "Abusive language",
+    "severity": "Low",
+    "date": "2025-11-19",
+    "status": "Pending"
+  },
+  {
+    "id": 86,
+    "offenderId": 2,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-08-08",
+    "status": "Pending"
+  },
+  {
+    "id": 87,
+    "offenderId": 10,
+    "description": "Violent conduct",
+    "severity": "Medium",
+    "date": "2025-02-21",
+    "status": "Resolved"
+  },
+  {
+    "id": 88,
+    "offenderId": 28,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-08-31",
+    "status": "Resolved"
+  },
+  {
+    "id": 89,
+    "offenderId": 26,
+    "description": "Violent conduct",
+    "severity": "Severe",
+    "date": "2025-03-10",
+    "status": "Pending"
+  },
+  {
+    "id": 90,
+    "offenderId": 22,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-08-21",
+    "status": "Pending"
+  },
+  {
+    "id": 91,
+    "offenderId": 28,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-12-30",
+    "status": "Under Review"
+  },
+  {
+    "id": 92,
+    "offenderId": 3,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-03-03",
+    "status": "Under Review"
+  },
+  {
+    "id": 93,
+    "offenderId": 16,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-03-03",
+    "status": "Under Review"
+  },
+  {
+    "id": 94,
+    "offenderId": 2,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-05-01",
+    "status": "Under Review"
+  },
+  {
+    "id": 95,
+    "offenderId": 29,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-11-06",
+    "status": "Under Review"
+  },
+  {
+    "id": 96,
+    "offenderId": 20,
+    "description": "Violent conduct",
+    "severity": "High",
+    "date": "2025-01-29",
+    "status": "Under Review"
+  },
+  {
+    "id": 97,
+    "offenderId": 11,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-02-21",
+    "status": "Under Review"
+  },
+  {
+    "id": 98,
+    "offenderId": 21,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-02-18",
+    "status": "Pending"
+  },
+  {
+    "id": 99,
+    "offenderId": 14,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-11-21",
+    "status": "Under Review"
+  },
+  {
+    "id": 100,
+    "offenderId": 11,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-04-16",
+    "status": "Pending"
+  },
+  {
+    "id": 101,
+    "offenderId": 11,
+    "description": "Violent conduct",
+    "severity": "High",
+    "date": "2025-09-05",
+    "status": "Resolved"
+  },
+  {
+    "id": 102,
+    "offenderId": 10,
+    "description": "Offensive language",
+    "severity": "Severe",
+    "date": "2025-09-13",
+    "status": "Resolved"
+  },
+  {
+    "id": 103,
+    "offenderId": 9,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-03-04",
+    "status": "Pending"
+  },
+  {
+    "id": 104,
+    "offenderId": 13,
+    "description": "Spitting",
+    "severity": "Medium",
+    "date": "2025-04-09",
+    "status": "Under Review"
+  },
+  {
+    "id": 105,
+    "offenderId": 12,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-07-16",
+    "status": "Pending"
+  },
+  {
+    "id": 106,
+    "offenderId": 23,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-07-08",
+    "status": "Under Review"
+  },
+  {
+    "id": 107,
+    "offenderId": 28,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-02-15",
+    "status": "Under Review"
+  },
+  {
+    "id": 108,
+    "offenderId": 11,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Medium",
+    "date": "2025-02-02",
+    "status": "Pending"
+  },
+  {
+    "id": 109,
+    "offenderId": 30,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-06-29",
+    "status": "Resolved"
+  },
+  {
+    "id": 110,
+    "offenderId": 7,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-09-30",
+    "status": "Pending"
+  },
+  {
+    "id": 111,
+    "offenderId": 25,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-12-15",
+    "status": "Resolved"
+  },
+  {
+    "id": 112,
+    "offenderId": 20,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-01-28",
+    "status": "Resolved"
+  },
+  {
+    "id": 113,
+    "offenderId": 30,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-08-09",
+    "status": "Resolved"
+  },
+  {
+    "id": 114,
+    "offenderId": 3,
+    "description": "Violent conduct",
+    "severity": "Severe",
+    "date": "2025-06-18",
+    "status": "Pending"
+  },
+  {
+    "id": 115,
+    "offenderId": 21,
+    "description": "Abusive language",
+    "severity": "Severe",
+    "date": "2025-04-24",
+    "status": "Pending"
+  },
+  {
+    "id": 116,
+    "offenderId": 5,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-11-03",
+    "status": "Resolved"
+  },
+  {
+    "id": 117,
+    "offenderId": 4,
+    "description": "Spitting",
+    "severity": "Low",
+    "date": "2025-10-22",
+    "status": "Under Review"
+  },
+  {
+    "id": 118,
+    "offenderId": 13,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-05-06",
+    "status": "Resolved"
+  },
+  {
+    "id": 119,
+    "offenderId": 4,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-10-03",
+    "status": "Under Review"
+  },
+  {
+    "id": 120,
+    "offenderId": 6,
+    "description": "Spitting",
+    "severity": "Severe",
+    "date": "2025-09-16",
+    "status": "Resolved"
+  },
+  {
+    "id": 121,
+    "offenderId": 2,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-07-29",
+    "status": "Pending"
+  },
+  {
+    "id": 122,
+    "offenderId": 4,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-04-08",
+    "status": "Under Review"
+  },
+  {
+    "id": 123,
+    "offenderId": 30,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-09-26",
+    "status": "Pending"
+  },
+  {
+    "id": 124,
+    "offenderId": 30,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-12-16",
+    "status": "Under Review"
+  },
+  {
+    "id": 125,
+    "offenderId": 26,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-12-23",
+    "status": "Pending"
+  },
+  {
+    "id": 126,
+    "offenderId": 20,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2025-03-12",
+    "status": "Pending"
+  },
+  {
+    "id": 127,
+    "offenderId": 3,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-10-05",
+    "status": "Pending"
+  },
+  {
+    "id": 128,
+    "offenderId": 12,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-07-17",
+    "status": "Pending"
+  },
+  {
+    "id": 129,
+    "offenderId": 23,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-10-24",
+    "status": "Resolved"
+  },
+  {
+    "id": 130,
+    "offenderId": 20,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-04-18",
+    "status": "Under Review"
+  },
+  {
+    "id": 131,
+    "offenderId": 28,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-04-04",
+    "status": "Under Review"
+  },
+  {
+    "id": 132,
+    "offenderId": 2,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-11-17",
+    "status": "Under Review"
+  },
+  {
+    "id": 133,
+    "offenderId": 17,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-01-21",
+    "status": "Resolved"
+  },
+  {
+    "id": 134,
+    "offenderId": 15,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-10-11",
+    "status": "Resolved"
+  },
+  {
+    "id": 135,
+    "offenderId": 19,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-06-25",
+    "status": "Pending"
+  },
+  {
+    "id": 136,
+    "offenderId": 23,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2025-06-26",
+    "status": "Under Review"
+  },
+  {
+    "id": 137,
+    "offenderId": 14,
+    "description": "Time-wasting",
+    "severity": "Medium",
+    "date": "2025-05-28",
+    "status": "Under Review"
+  },
+  {
+    "id": 138,
+    "offenderId": 5,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-12-06",
+    "status": "Resolved"
+  },
+  {
+    "id": 139,
+    "offenderId": 24,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-09-12",
+    "status": "Pending"
+  },
+  {
+    "id": 140,
+    "offenderId": 11,
+    "description": "Abusive language",
+    "severity": "Low",
+    "date": "2025-07-23",
+    "status": "Under Review"
+  },
+  {
+    "id": 141,
+    "offenderId": 10,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-04-24",
+    "status": "Pending"
+  },
+  {
+    "id": 142,
+    "offenderId": 8,
+    "description": "Spitting",
+    "severity": "Low",
+    "date": "2025-10-07",
+    "status": "Under Review"
+  },
+  {
+    "id": 143,
+    "offenderId": 3,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-08-31",
+    "status": "Resolved"
+  },
+  {
+    "id": 144,
+    "offenderId": 18,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-11-26",
+    "status": "Pending"
+  },
+  {
+    "id": 145,
+    "offenderId": 2,
+    "description": "Aggressive behavior",
+    "severity": "Medium",
+    "date": "2025-03-17",
+    "status": "Resolved"
+  },
+  {
+    "id": 146,
+    "offenderId": 6,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-03-04",
+    "status": "Resolved"
+  },
+  {
+    "id": 147,
+    "offenderId": 9,
+    "description": "Offensive language",
+    "severity": "Severe",
+    "date": "2025-08-13",
+    "status": "Pending"
+  },
+  {
+    "id": 148,
+    "offenderId": 24,
+    "description": "Spitting",
+    "severity": "Severe",
+    "date": "2025-08-12",
+    "status": "Under Review"
+  },
+  {
+    "id": 149,
+    "offenderId": 14,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2026-01-04",
+    "status": "Under Review"
+  },
+  {
+    "id": 150,
+    "offenderId": 8,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-05-10",
+    "status": "Under Review"
+  },
+  {
+    "id": 151,
+    "offenderId": 28,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-08-14",
+    "status": "Pending"
+  },
+  {
+    "id": 152,
+    "offenderId": 23,
+    "description": "Spitting",
+    "severity": "Low",
+    "date": "2025-04-25",
+    "status": "Resolved"
+  },
+  {
+    "id": 153,
+    "offenderId": 19,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-03-29",
+    "status": "Pending"
+  },
+  {
+    "id": 154,
+    "offenderId": 2,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Medium",
+    "date": "2025-07-13",
+    "status": "Resolved"
+  },
+  {
+    "id": 155,
+    "offenderId": 22,
+    "description": "Violent conduct",
+    "severity": "High",
+    "date": "2025-11-18",
+    "status": "Resolved"
+  },
+  {
+    "id": 156,
+    "offenderId": 13,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-08-07",
+    "status": "Resolved"
+  },
+  {
+    "id": 157,
+    "offenderId": 7,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-05-22",
+    "status": "Under Review"
+  },
+  {
+    "id": 158,
+    "offenderId": 11,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-01-31",
+    "status": "Under Review"
+  },
+  {
+    "id": 159,
+    "offenderId": 1,
+    "description": "Time-wasting",
+    "severity": "Medium",
+    "date": "2025-06-06",
+    "status": "Under Review"
+  },
+  {
+    "id": 160,
+    "offenderId": 21,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-02-26",
+    "status": "Under Review"
+  },
+  {
+    "id": 161,
+    "offenderId": 23,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-05-28",
+    "status": "Pending"
+  },
+  {
+    "id": 162,
+    "offenderId": 14,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-08-19",
+    "status": "Under Review"
+  },
+  {
+    "id": 163,
+    "offenderId": 24,
+    "description": "Abusive language",
+    "severity": "Low",
+    "date": "2025-09-11",
+    "status": "Resolved"
+  },
+  {
+    "id": 164,
+    "offenderId": 18,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-08-26",
+    "status": "Pending"
+  },
+  {
+    "id": 165,
+    "offenderId": 22,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-02-16",
+    "status": "Pending"
+  },
+  {
+    "id": 166,
+    "offenderId": 16,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-07-30",
+    "status": "Resolved"
+  },
+  {
+    "id": 167,
+    "offenderId": 7,
+    "description": "Abusive language",
+    "severity": "Severe",
+    "date": "2025-05-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 168,
+    "offenderId": 12,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-11-10",
+    "status": "Resolved"
+  },
+  {
+    "id": 169,
+    "offenderId": 28,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-04-04",
+    "status": "Under Review"
+  },
+  {
+    "id": 170,
+    "offenderId": 23,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-04-04",
+    "status": "Under Review"
+  },
+  {
+    "id": 171,
+    "offenderId": 2,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-03-31",
+    "status": "Pending"
+  },
+  {
+    "id": 172,
+    "offenderId": 29,
+    "description": "Time-wasting",
+    "severity": "Severe",
+    "date": "2025-09-15",
+    "status": "Pending"
+  },
+  {
+    "id": 173,
+    "offenderId": 5,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-09-12",
+    "status": "Pending"
+  },
+  {
+    "id": 174,
+    "offenderId": 11,
+    "description": "Violent conduct",
+    "severity": "Medium",
+    "date": "2026-01-15",
+    "status": "Resolved"
+  },
+  {
+    "id": 175,
+    "offenderId": 13,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-05-04",
+    "status": "Resolved"
+  },
+  {
+    "id": 176,
+    "offenderId": 5,
+    "description": "Violent conduct",
+    "severity": "High",
+    "date": "2025-09-07",
+    "status": "Resolved"
+  },
+  {
+    "id": 177,
+    "offenderId": 21,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-03-24",
+    "status": "Pending"
+  },
+  {
+    "id": 178,
+    "offenderId": 14,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-10-13",
+    "status": "Pending"
+  },
+  {
+    "id": 179,
+    "offenderId": 19,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-07-28",
+    "status": "Under Review"
+  },
+  {
+    "id": 180,
+    "offenderId": 12,
+    "description": "Abusive language",
+    "severity": "High",
+    "date": "2025-08-24",
+    "status": "Resolved"
+  },
+  {
+    "id": 181,
+    "offenderId": 29,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-12-21",
+    "status": "Resolved"
+  },
+  {
+    "id": 182,
+    "offenderId": 16,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-12-08",
+    "status": "Under Review"
+  },
+  {
+    "id": 183,
+    "offenderId": 8,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-04-05",
+    "status": "Under Review"
+  },
+  {
+    "id": 184,
+    "offenderId": 5,
+    "description": "Spitting",
+    "severity": "Severe",
+    "date": "2025-07-18",
+    "status": "Under Review"
+  },
+  {
+    "id": 185,
+    "offenderId": 23,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-05-24",
+    "status": "Pending"
+  },
+  {
+    "id": 186,
+    "offenderId": 13,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Medium",
+    "date": "2025-04-06",
+    "status": "Under Review"
+  },
+  {
+    "id": 187,
+    "offenderId": 15,
+    "description": "Aggressive behavior",
+    "severity": "Low",
+    "date": "2025-10-26",
+    "status": "Resolved"
+  },
+  {
+    "id": 188,
+    "offenderId": 8,
+    "description": "Spitting",
+    "severity": "Severe",
+    "date": "2025-03-31",
+    "status": "Under Review"
+  },
+  {
+    "id": 189,
+    "offenderId": 23,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-04-17",
+    "status": "Under Review"
+  },
+  {
+    "id": 190,
+    "offenderId": 11,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Medium",
+    "date": "2026-01-13",
+    "status": "Resolved"
+  },
+  {
+    "id": 191,
+    "offenderId": 12,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-03-28",
+    "status": "Under Review"
+  },
+  {
+    "id": 192,
+    "offenderId": 15,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-12-30",
+    "status": "Under Review"
+  },
+  {
+    "id": 193,
+    "offenderId": 20,
+    "description": "Aggressive behavior",
+    "severity": "Medium",
+    "date": "2025-05-06",
+    "status": "Pending"
+  },
+  {
+    "id": 194,
+    "offenderId": 27,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-07-21",
+    "status": "Under Review"
+  },
+  {
+    "id": 195,
+    "offenderId": 21,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-02-28",
+    "status": "Resolved"
+  },
+  {
+    "id": 196,
+    "offenderId": 2,
+    "description": "Abusive language",
+    "severity": "Low",
+    "date": "2025-05-12",
+    "status": "Under Review"
+  },
+  {
+    "id": 197,
+    "offenderId": 5,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-03-08",
+    "status": "Pending"
+  },
+  {
+    "id": 198,
+    "offenderId": 17,
+    "description": "Spitting",
+    "severity": "Low",
+    "date": "2025-02-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 199,
+    "offenderId": 13,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-10-26",
+    "status": "Under Review"
+  },
+  {
+    "id": 200,
+    "offenderId": 30,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-08-04",
+    "status": "Pending"
+  },
+  {
+    "id": 201,
+    "offenderId": 13,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-10-13",
+    "status": "Resolved"
+  },
+  {
+    "id": 202,
+    "offenderId": 24,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-03-24",
+    "status": "Resolved"
+  },
+  {
+    "id": 203,
+    "offenderId": 26,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-03-10",
+    "status": "Pending"
+  },
+  {
+    "id": 204,
+    "offenderId": 12,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-02-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 205,
+    "offenderId": 27,
+    "description": "Aggressive behavior",
+    "severity": "Medium",
+    "date": "2026-01-13",
+    "status": "Under Review"
+  },
+  {
+    "id": 206,
+    "offenderId": 23,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-10-03",
+    "status": "Pending"
+  },
+  {
+    "id": 207,
+    "offenderId": 11,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-03-18",
+    "status": "Under Review"
+  },
+  {
+    "id": 208,
+    "offenderId": 20,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-03-10",
+    "status": "Pending"
+  },
+  {
+    "id": 209,
+    "offenderId": 25,
+    "description": "Abusive language",
+    "severity": "High",
+    "date": "2025-08-12",
+    "status": "Pending"
+  },
+  {
+    "id": 210,
+    "offenderId": 26,
+    "description": "Offensive language",
+    "severity": "Severe",
+    "date": "2025-12-15",
+    "status": "Pending"
+  },
+  {
+    "id": 211,
+    "offenderId": 27,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-11-20",
+    "status": "Pending"
+  },
+  {
+    "id": 212,
+    "offenderId": 25,
+    "description": "Abusive language",
+    "severity": "Severe",
+    "date": "2025-11-05",
+    "status": "Pending"
+  },
+  {
+    "id": 213,
+    "offenderId": 15,
+    "description": "Violent conduct",
+    "severity": "Medium",
+    "date": "2025-02-17",
+    "status": "Resolved"
+  },
+  {
+    "id": 214,
+    "offenderId": 5,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-04-08",
+    "status": "Under Review"
+  },
+  {
+    "id": 215,
+    "offenderId": 5,
+    "description": "Abusive language",
+    "severity": "Severe",
+    "date": "2025-02-15",
+    "status": "Resolved"
+  },
+  {
+    "id": 216,
+    "offenderId": 7,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-05-30",
+    "status": "Resolved"
+  },
+  {
+    "id": 217,
+    "offenderId": 19,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-09-25",
+    "status": "Pending"
+  },
+  {
+    "id": 218,
+    "offenderId": 7,
+    "description": "Violent conduct",
+    "severity": "Medium",
+    "date": "2025-07-23",
+    "status": "Under Review"
+  },
+  {
+    "id": 219,
+    "offenderId": 30,
+    "description": "Violent conduct",
+    "severity": "Severe",
+    "date": "2025-03-05",
+    "status": "Resolved"
+  },
+  {
+    "id": 220,
+    "offenderId": 10,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-10-01",
+    "status": "Pending"
+  },
+  {
+    "id": 221,
+    "offenderId": 15,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-04-20",
+    "status": "Resolved"
+  },
+  {
+    "id": 222,
+    "offenderId": 6,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-02-26",
+    "status": "Resolved"
+  },
+  {
+    "id": 223,
+    "offenderId": 9,
+    "description": "Aggressive behavior",
+    "severity": "Low",
+    "date": "2025-04-30",
+    "status": "Resolved"
+  },
+  {
+    "id": 224,
+    "offenderId": 7,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-11-16",
+    "status": "Under Review"
+  },
+  {
+    "id": 225,
+    "offenderId": 21,
+    "description": "Aggressive behavior",
+    "severity": "Medium",
+    "date": "2025-12-26",
+    "status": "Pending"
+  },
+  {
+    "id": 226,
+    "offenderId": 25,
+    "description": "Aggressive behavior",
+    "severity": "Low",
+    "date": "2025-07-06",
+    "status": "Resolved"
+  },
+  {
+    "id": 227,
+    "offenderId": 7,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-07-29",
+    "status": "Pending"
+  },
+  {
+    "id": 228,
+    "offenderId": 2,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-06-10",
+    "status": "Under Review"
+  },
+  {
+    "id": 229,
+    "offenderId": 12,
+    "description": "Time-wasting",
+    "severity": "Severe",
+    "date": "2025-02-07",
+    "status": "Resolved"
+  },
+  {
+    "id": 230,
+    "offenderId": 6,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-03-21",
+    "status": "Resolved"
+  },
+  {
+    "id": 231,
+    "offenderId": 16,
+    "description": "Aggressive behavior",
+    "severity": "Medium",
+    "date": "2025-05-14",
+    "status": "Pending"
+  },
+  {
+    "id": 232,
+    "offenderId": 22,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-11-30",
+    "status": "Resolved"
+  },
+  {
+    "id": 233,
+    "offenderId": 21,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-07-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 234,
+    "offenderId": 19,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-08-20",
+    "status": "Resolved"
+  },
+  {
+    "id": 235,
+    "offenderId": 7,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-12-07",
+    "status": "Resolved"
+  },
+  {
+    "id": 236,
+    "offenderId": 6,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-01-18",
+    "status": "Pending"
+  },
+  {
+    "id": 237,
+    "offenderId": 16,
+    "description": "Abusive language",
+    "severity": "High",
+    "date": "2025-05-22",
+    "status": "Pending"
+  },
+  {
+    "id": 238,
+    "offenderId": 8,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-03-21",
+    "status": "Resolved"
+  },
+  {
+    "id": 239,
+    "offenderId": 12,
+    "description": "Abusive language",
+    "severity": "Low",
+    "date": "2026-01-04",
+    "status": "Under Review"
+  },
+  {
+    "id": 240,
+    "offenderId": 29,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-08-28",
+    "status": "Resolved"
+  },
+  {
+    "id": 241,
+    "offenderId": 12,
+    "description": "Spitting",
+    "severity": "Severe",
+    "date": "2025-06-12",
+    "status": "Resolved"
+  },
+  {
+    "id": 242,
+    "offenderId": 21,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-11-22",
+    "status": "Under Review"
+  },
+  {
+    "id": 243,
+    "offenderId": 22,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-02-05",
+    "status": "Under Review"
+  },
+  {
+    "id": 244,
+    "offenderId": 14,
+    "description": "Aggressive behavior",
+    "severity": "Medium",
+    "date": "2025-12-13",
+    "status": "Resolved"
+  },
+  {
+    "id": 245,
+    "offenderId": 24,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-03-19",
+    "status": "Resolved"
+  },
+  {
+    "id": 246,
+    "offenderId": 5,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-06-21",
+    "status": "Under Review"
+  },
+  {
+    "id": 247,
+    "offenderId": 20,
+    "description": "Offensive language",
+    "severity": "Severe",
+    "date": "2025-09-29",
+    "status": "Resolved"
+  },
+  {
+    "id": 248,
+    "offenderId": 23,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-10-23",
+    "status": "Under Review"
+  },
+  {
+    "id": 249,
+    "offenderId": 28,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-03-24",
+    "status": "Resolved"
+  },
+  {
+    "id": 250,
+    "offenderId": 21,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-05-26",
+    "status": "Under Review"
+  },
+  {
+    "id": 251,
+    "offenderId": 13,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2026-01-14",
+    "status": "Pending"
+  },
+  {
+    "id": 252,
+    "offenderId": 29,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Medium",
+    "date": "2025-05-06",
+    "status": "Resolved"
+  },
+  {
+    "id": 253,
+    "offenderId": 26,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-12-15",
+    "status": "Under Review"
+  },
+  {
+    "id": 254,
+    "offenderId": 15,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-02-19",
+    "status": "Under Review"
+  },
+  {
+    "id": 255,
+    "offenderId": 4,
+    "description": "Time-wasting",
+    "severity": "Medium",
+    "date": "2025-08-04",
+    "status": "Under Review"
+  },
+  {
+    "id": 256,
+    "offenderId": 17,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-07-13",
+    "status": "Under Review"
+  },
+  {
+    "id": 257,
+    "offenderId": 23,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-08-08",
+    "status": "Pending"
+  },
+  {
+    "id": 258,
+    "offenderId": 7,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-10-21",
+    "status": "Resolved"
+  },
+  {
+    "id": 259,
+    "offenderId": 12,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-12-16",
+    "status": "Resolved"
+  },
+  {
+    "id": 260,
+    "offenderId": 19,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-07-16",
+    "status": "Resolved"
+  },
+  {
+    "id": 261,
+    "offenderId": 21,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-10-25",
+    "status": "Under Review"
+  },
+  {
+    "id": 262,
+    "offenderId": 10,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-09-10",
+    "status": "Under Review"
+  },
+  {
+    "id": 263,
+    "offenderId": 5,
+    "description": "Spitting",
+    "severity": "Low",
+    "date": "2025-11-12",
+    "status": "Pending"
+  },
+  {
+    "id": 264,
+    "offenderId": 23,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-08-17",
+    "status": "Resolved"
+  },
+  {
+    "id": 265,
+    "offenderId": 9,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-02-24",
+    "status": "Under Review"
+  },
+  {
+    "id": 266,
+    "offenderId": 23,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-12-07",
+    "status": "Resolved"
+  },
+  {
+    "id": 267,
+    "offenderId": 26,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-09-07",
+    "status": "Resolved"
+  },
+  {
+    "id": 268,
+    "offenderId": 19,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-09-28",
+    "status": "Under Review"
+  },
+  {
+    "id": 269,
+    "offenderId": 29,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2026-01-16",
+    "status": "Pending"
+  },
+  {
+    "id": 270,
+    "offenderId": 13,
+    "description": "Abusive language",
+    "severity": "Low",
+    "date": "2025-10-07",
+    "status": "Pending"
+  },
+  {
+    "id": 271,
+    "offenderId": 22,
+    "description": "Spitting",
+    "severity": "Medium",
+    "date": "2025-07-18",
+    "status": "Resolved"
+  },
+  {
+    "id": 272,
+    "offenderId": 18,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-08-07",
+    "status": "Under Review"
+  },
+  {
+    "id": 273,
+    "offenderId": 23,
+    "description": "Abusive language",
+    "severity": "Severe",
+    "date": "2025-09-22",
+    "status": "Resolved"
+  },
+  {
+    "id": 274,
+    "offenderId": 10,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-04-18",
+    "status": "Under Review"
+  },
+  {
+    "id": 275,
+    "offenderId": 12,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-10-21",
+    "status": "Pending"
+  },
+  {
+    "id": 276,
+    "offenderId": 7,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-12-03",
+    "status": "Under Review"
+  },
+  {
+    "id": 277,
+    "offenderId": 3,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-08-01",
+    "status": "Under Review"
+  },
+  {
+    "id": 278,
+    "offenderId": 4,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-10-19",
+    "status": "Resolved"
+  },
+  {
+    "id": 279,
+    "offenderId": 1,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-12-21",
+    "status": "Under Review"
+  },
+  {
+    "id": 280,
+    "offenderId": 19,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Medium",
+    "date": "2025-08-04",
+    "status": "Pending"
+  },
+  {
+    "id": 281,
+    "offenderId": 20,
+    "description": "Time-wasting",
+    "severity": "Severe",
+    "date": "2025-03-08",
+    "status": "Resolved"
+  },
+  {
+    "id": 282,
+    "offenderId": 11,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-03-24",
+    "status": "Pending"
+  },
+  {
+    "id": 283,
+    "offenderId": 8,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2025-02-15",
+    "status": "Pending"
+  },
+  {
+    "id": 284,
+    "offenderId": 16,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-07-06",
+    "status": "Pending"
+  },
+  {
+    "id": 285,
+    "offenderId": 12,
+    "description": "Spitting",
+    "severity": "Medium",
+    "date": "2025-07-10",
+    "status": "Resolved"
+  },
+  {
+    "id": 286,
+    "offenderId": 24,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-06-23",
+    "status": "Pending"
+  },
+  {
+    "id": 287,
+    "offenderId": 7,
+    "description": "Abusive language",
+    "severity": "Low",
+    "date": "2025-09-11",
+    "status": "Resolved"
+  },
+  {
+    "id": 288,
+    "offenderId": 19,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-02-11",
+    "status": "Under Review"
+  },
+  {
+    "id": 289,
+    "offenderId": 3,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-12-06",
+    "status": "Pending"
+  },
+  {
+    "id": 290,
+    "offenderId": 6,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-02-18",
+    "status": "Resolved"
+  },
+  {
+    "id": 291,
+    "offenderId": 2,
+    "description": "Abusive language",
+    "severity": "High",
+    "date": "2025-05-19",
+    "status": "Under Review"
+  },
+  {
+    "id": 292,
+    "offenderId": 28,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-11-22",
+    "status": "Pending"
+  },
+  {
+    "id": 293,
+    "offenderId": 5,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-05-26",
+    "status": "Resolved"
+  },
+  {
+    "id": 294,
+    "offenderId": 5,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-08-17",
+    "status": "Pending"
+  },
+  {
+    "id": 295,
+    "offenderId": 3,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-08-08",
+    "status": "Pending"
+  },
+  {
+    "id": 296,
+    "offenderId": 7,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-06-18",
+    "status": "Resolved"
+  },
+  {
+    "id": 297,
+    "offenderId": 10,
+    "description": "Offensive language",
+    "severity": "Severe",
+    "date": "2025-01-19",
+    "status": "Pending"
+  },
+  {
+    "id": 298,
+    "offenderId": 13,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-08-24",
+    "status": "Under Review"
+  },
+  {
+    "id": 299,
+    "offenderId": 26,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Low",
+    "date": "2025-04-07",
+    "status": "Under Review"
+  },
+  {
+    "id": 300,
+    "offenderId": 1,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-03-17",
+    "status": "Resolved"
+  },
+  {
+    "id": 301,
+    "offenderId": 7,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-02-16",
+    "status": "Resolved"
+  },
+  {
+    "id": 302,
+    "offenderId": 20,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-05-15",
+    "status": "Pending"
+  },
+  {
+    "id": 303,
+    "offenderId": 10,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-02-20",
+    "status": "Under Review"
+  },
+  {
+    "id": 304,
+    "offenderId": 29,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-12-31",
+    "status": "Under Review"
+  },
+  {
+    "id": 305,
+    "offenderId": 6,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-04-28",
+    "status": "Under Review"
+  },
+  {
+    "id": 306,
+    "offenderId": 29,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-02-17",
+    "status": "Pending"
+  },
+  {
+    "id": 307,
+    "offenderId": 13,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-01-24",
+    "status": "Pending"
+  },
+  {
+    "id": 308,
+    "offenderId": 10,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-12-02",
+    "status": "Pending"
+  },
+  {
+    "id": 309,
+    "offenderId": 26,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-06-13",
+    "status": "Under Review"
+  },
+  {
+    "id": 310,
+    "offenderId": 12,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-09-03",
+    "status": "Pending"
+  },
+  {
+    "id": 311,
+    "offenderId": 1,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-02-07",
+    "status": "Resolved"
+  },
+  {
+    "id": 312,
+    "offenderId": 30,
+    "description": "Abusive language",
+    "severity": "Low",
+    "date": "2026-01-14",
+    "status": "Pending"
+  },
+  {
+    "id": 313,
+    "offenderId": 10,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-10-15",
+    "status": "Under Review"
+  },
+  {
+    "id": 314,
+    "offenderId": 2,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-02-11",
+    "status": "Pending"
+  },
+  {
+    "id": 315,
+    "offenderId": 29,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-05-23",
+    "status": "Under Review"
+  },
+  {
+    "id": 316,
+    "offenderId": 22,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-04-12",
+    "status": "Pending"
+  },
+  {
+    "id": 317,
+    "offenderId": 16,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-10-29",
+    "status": "Pending"
+  },
+  {
+    "id": 318,
+    "offenderId": 19,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Medium",
+    "date": "2025-07-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 319,
+    "offenderId": 18,
+    "description": "Aggressive behavior",
+    "severity": "Medium",
+    "date": "2025-09-20",
+    "status": "Resolved"
+  },
+  {
+    "id": 320,
+    "offenderId": 8,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-12-01",
+    "status": "Under Review"
+  },
+  {
+    "id": 321,
+    "offenderId": 21,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-08-29",
+    "status": "Pending"
+  },
+  {
+    "id": 322,
+    "offenderId": 16,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-06-07",
+    "status": "Resolved"
+  },
+  {
+    "id": 323,
+    "offenderId": 13,
+    "description": "Aggressive behavior",
+    "severity": "Low",
+    "date": "2025-03-24",
+    "status": "Under Review"
+  },
+  {
+    "id": 324,
+    "offenderId": 14,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-06-29",
+    "status": "Under Review"
+  },
+  {
+    "id": 325,
+    "offenderId": 23,
+    "description": "Violent conduct",
+    "severity": "Medium",
+    "date": "2025-11-13",
+    "status": "Resolved"
+  },
+  {
+    "id": 326,
+    "offenderId": 8,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-12-20",
+    "status": "Resolved"
+  },
+  {
+    "id": 327,
+    "offenderId": 30,
+    "description": "Violent conduct",
+    "severity": "High",
+    "date": "2025-07-20",
+    "status": "Resolved"
+  },
+  {
+    "id": 328,
+    "offenderId": 20,
+    "description": "Aggressive behavior",
+    "severity": "Low",
+    "date": "2025-09-01",
+    "status": "Under Review"
+  },
+  {
+    "id": 329,
+    "offenderId": 18,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-12-01",
+    "status": "Pending"
+  },
+  {
+    "id": 330,
+    "offenderId": 7,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-08-07",
+    "status": "Under Review"
+  },
+  {
+    "id": 331,
+    "offenderId": 14,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-07-18",
+    "status": "Resolved"
+  },
+  {
+    "id": 332,
+    "offenderId": 6,
+    "description": "Spitting",
+    "severity": "Severe",
+    "date": "2025-02-17",
+    "status": "Under Review"
+  },
+  {
+    "id": 333,
+    "offenderId": 20,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-12-26",
+    "status": "Pending"
+  },
+  {
+    "id": 334,
+    "offenderId": 6,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-05-02",
+    "status": "Pending"
+  },
+  {
+    "id": 335,
+    "offenderId": 6,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-07-17",
+    "status": "Resolved"
+  },
+  {
+    "id": 336,
+    "offenderId": 25,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-12-21",
+    "status": "Under Review"
+  },
+  {
+    "id": 337,
+    "offenderId": 26,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-08-13",
+    "status": "Resolved"
+  },
+  {
+    "id": 338,
+    "offenderId": 18,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Low",
+    "date": "2025-05-16",
+    "status": "Pending"
+  },
+  {
+    "id": 339,
+    "offenderId": 3,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-10-26",
+    "status": "Under Review"
+  },
+  {
+    "id": 340,
+    "offenderId": 4,
+    "description": "Spitting",
+    "severity": "Severe",
+    "date": "2025-05-22",
+    "status": "Under Review"
+  },
+  {
+    "id": 341,
+    "offenderId": 26,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-07-07",
+    "status": "Pending"
+  },
+  {
+    "id": 342,
+    "offenderId": 26,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-08-02",
+    "status": "Under Review"
+  },
+  {
+    "id": 343,
+    "offenderId": 2,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-07-23",
+    "status": "Pending"
+  },
+  {
+    "id": 344,
+    "offenderId": 7,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-11-22",
+    "status": "Pending"
+  },
+  {
+    "id": 345,
+    "offenderId": 28,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-09-28",
+    "status": "Under Review"
+  },
+  {
+    "id": 346,
+    "offenderId": 10,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-12-05",
+    "status": "Pending"
+  },
+  {
+    "id": 347,
+    "offenderId": 16,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-02-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 348,
+    "offenderId": 30,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-08-21",
+    "status": "Resolved"
+  },
+  {
+    "id": 349,
+    "offenderId": 2,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-05-28",
+    "status": "Resolved"
+  },
+  {
+    "id": 350,
+    "offenderId": 3,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2025-07-12",
+    "status": "Resolved"
+  },
+  {
+    "id": 351,
+    "offenderId": 1,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-09-16",
+    "status": "Under Review"
+  },
+  {
+    "id": 352,
+    "offenderId": 9,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-04-16",
+    "status": "Under Review"
+  },
+  {
+    "id": 353,
+    "offenderId": 8,
+    "description": "Abusive language",
+    "severity": "High",
+    "date": "2025-02-17",
+    "status": "Under Review"
+  },
+  {
+    "id": 354,
+    "offenderId": 16,
+    "description": "Abusive language",
+    "severity": "Low",
+    "date": "2025-05-22",
+    "status": "Pending"
+  },
+  {
+    "id": 355,
+    "offenderId": 23,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-08-04",
+    "status": "Under Review"
+  },
+  {
+    "id": 356,
+    "offenderId": 4,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2026-01-07",
+    "status": "Under Review"
+  },
+  {
+    "id": 357,
+    "offenderId": 8,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2025-12-08",
+    "status": "Resolved"
+  },
+  {
+    "id": 358,
+    "offenderId": 29,
+    "description": "Abusive language",
+    "severity": "Severe",
+    "date": "2025-06-05",
+    "status": "Resolved"
+  },
+  {
+    "id": 359,
+    "offenderId": 18,
+    "description": "Time-wasting",
+    "severity": "Severe",
+    "date": "2025-02-24",
+    "status": "Resolved"
+  },
+  {
+    "id": 360,
+    "offenderId": 15,
+    "description": "Aggressive behavior",
+    "severity": "Medium",
+    "date": "2025-08-20",
+    "status": "Pending"
+  },
+  {
+    "id": 361,
+    "offenderId": 22,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-11-05",
+    "status": "Under Review"
+  },
+  {
+    "id": 362,
+    "offenderId": 7,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-12-15",
+    "status": "Pending"
+  },
+  {
+    "id": 363,
+    "offenderId": 14,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-12-01",
+    "status": "Under Review"
+  },
+  {
+    "id": 364,
+    "offenderId": 16,
+    "description": "Violent conduct",
+    "severity": "Severe",
+    "date": "2025-10-11",
+    "status": "Resolved"
+  },
+  {
+    "id": 365,
+    "offenderId": 29,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-11-16",
+    "status": "Under Review"
+  },
+  {
+    "id": 366,
+    "offenderId": 25,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-02-02",
+    "status": "Under Review"
+  },
+  {
+    "id": 367,
+    "offenderId": 5,
+    "description": "Violent conduct",
+    "severity": "High",
+    "date": "2025-05-31",
+    "status": "Under Review"
+  },
+  {
+    "id": 368,
+    "offenderId": 18,
+    "description": "Spitting",
+    "severity": "Severe",
+    "date": "2025-04-12",
+    "status": "Pending"
+  },
+  {
+    "id": 369,
+    "offenderId": 1,
+    "description": "Violent conduct",
+    "severity": "High",
+    "date": "2025-04-22",
+    "status": "Resolved"
+  },
+  {
+    "id": 370,
+    "offenderId": 16,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-01-21",
+    "status": "Pending"
+  },
+  {
+    "id": 371,
+    "offenderId": 21,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-10-03",
+    "status": "Pending"
+  },
+  {
+    "id": 372,
+    "offenderId": 4,
+    "description": "Violent conduct",
+    "severity": "Severe",
+    "date": "2025-07-02",
+    "status": "Under Review"
+  },
+  {
+    "id": 373,
+    "offenderId": 13,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-12-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 374,
+    "offenderId": 21,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-03-24",
+    "status": "Under Review"
+  },
+  {
+    "id": 375,
+    "offenderId": 21,
+    "description": "Violent conduct",
+    "severity": "High",
+    "date": "2025-02-24",
+    "status": "Pending"
+  },
+  {
+    "id": 376,
+    "offenderId": 14,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2026-01-15",
+    "status": "Resolved"
+  },
+  {
+    "id": 377,
+    "offenderId": 15,
+    "description": "Abusive language",
+    "severity": "High",
+    "date": "2025-07-06",
+    "status": "Resolved"
+  },
+  {
+    "id": 378,
+    "offenderId": 15,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-10-14",
+    "status": "Pending"
+  },
+  {
+    "id": 379,
+    "offenderId": 30,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-02-10",
+    "status": "Under Review"
+  },
+  {
+    "id": 380,
+    "offenderId": 12,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-09-20",
+    "status": "Under Review"
+  },
+  {
+    "id": 381,
+    "offenderId": 18,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2025-03-06",
+    "status": "Under Review"
+  },
+  {
+    "id": 382,
+    "offenderId": 19,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-10-03",
+    "status": "Pending"
+  },
+  {
+    "id": 383,
+    "offenderId": 24,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Medium",
+    "date": "2025-09-22",
+    "status": "Resolved"
+  },
+  {
+    "id": 384,
+    "offenderId": 3,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Low",
+    "date": "2025-01-29",
+    "status": "Pending"
+  },
+  {
+    "id": 385,
+    "offenderId": 19,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-08-22",
+    "status": "Pending"
+  },
+  {
+    "id": 386,
+    "offenderId": 3,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-05-16",
+    "status": "Resolved"
+  },
+  {
+    "id": 387,
+    "offenderId": 9,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-03-27",
+    "status": "Resolved"
+  },
+  {
+    "id": 388,
+    "offenderId": 17,
+    "description": "Time-wasting",
+    "severity": "Medium",
+    "date": "2025-04-05",
+    "status": "Under Review"
+  },
+  {
+    "id": 389,
+    "offenderId": 19,
+    "description": "Spitting",
+    "severity": "Medium",
+    "date": "2025-06-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 390,
+    "offenderId": 4,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2026-01-13",
+    "status": "Resolved"
+  },
+  {
+    "id": 391,
+    "offenderId": 25,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-03-04",
+    "status": "Resolved"
+  },
+  {
+    "id": 392,
+    "offenderId": 2,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-12-08",
+    "status": "Resolved"
+  },
+  {
+    "id": 393,
+    "offenderId": 20,
+    "description": "Abusive language",
+    "severity": "Severe",
+    "date": "2025-09-29",
+    "status": "Pending"
+  },
+  {
+    "id": 394,
+    "offenderId": 7,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-09-16",
+    "status": "Resolved"
+  },
+  {
+    "id": 395,
+    "offenderId": 16,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-03-23",
+    "status": "Resolved"
+  },
+  {
+    "id": 396,
+    "offenderId": 8,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-11-03",
+    "status": "Resolved"
+  },
+  {
+    "id": 397,
+    "offenderId": 1,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-12-18",
+    "status": "Pending"
+  },
+  {
+    "id": 398,
+    "offenderId": 7,
+    "description": "Time-wasting",
+    "severity": "Severe",
+    "date": "2025-04-22",
+    "status": "Pending"
+  },
+  {
+    "id": 399,
+    "offenderId": 21,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-06-10",
+    "status": "Resolved"
+  },
+  {
+    "id": 400,
+    "offenderId": 11,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-07-05",
+    "status": "Pending"
+  },
+  {
+    "id": 401,
+    "offenderId": 24,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-04-07",
+    "status": "Pending"
+  },
+  {
+    "id": 402,
+    "offenderId": 7,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-12-07",
+    "status": "Pending"
+  },
+  {
+    "id": 403,
+    "offenderId": 3,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-07-16",
+    "status": "Pending"
+  },
+  {
+    "id": 404,
+    "offenderId": 17,
+    "description": "Simulation (diving)",
+    "severity": "Low",
+    "date": "2025-04-27",
+    "status": "Pending"
+  },
+  {
+    "id": 405,
+    "offenderId": 20,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2026-01-06",
+    "status": "Pending"
+  },
+  {
+    "id": 406,
+    "offenderId": 12,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-09-23",
+    "status": "Resolved"
+  },
+  {
+    "id": 407,
+    "offenderId": 3,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2026-01-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 408,
+    "offenderId": 27,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-09-27",
+    "status": "Resolved"
+  },
+  {
+    "id": 409,
+    "offenderId": 13,
+    "description": "Abusive language",
+    "severity": "Severe",
+    "date": "2025-07-10",
+    "status": "Under Review"
+  },
+  {
+    "id": 410,
+    "offenderId": 12,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-04-14",
+    "status": "Under Review"
+  },
+  {
+    "id": 411,
+    "offenderId": 8,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-04-28",
+    "status": "Resolved"
+  },
+  {
+    "id": 412,
+    "offenderId": 15,
+    "description": "Abusive language",
+    "severity": "Severe",
+    "date": "2025-09-09",
+    "status": "Resolved"
+  },
+  {
+    "id": 413,
+    "offenderId": 16,
+    "description": "Spitting",
+    "severity": "Medium",
+    "date": "2025-07-11",
+    "status": "Under Review"
+  },
+  {
+    "id": 414,
+    "offenderId": 10,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-03-28",
+    "status": "Pending"
+  },
+  {
+    "id": 415,
+    "offenderId": 20,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2025-12-08",
+    "status": "Pending"
+  },
+  {
+    "id": 416,
+    "offenderId": 22,
+    "description": "Aggressive behavior",
+    "severity": "Low",
+    "date": "2025-04-03",
+    "status": "Resolved"
+  },
+  {
+    "id": 417,
+    "offenderId": 28,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-01-18",
+    "status": "Resolved"
+  },
+  {
+    "id": 418,
+    "offenderId": 20,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-02-18",
+    "status": "Pending"
+  },
+  {
+    "id": 419,
+    "offenderId": 22,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-12-24",
+    "status": "Under Review"
+  },
+  {
+    "id": 420,
+    "offenderId": 26,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-07-21",
+    "status": "Resolved"
+  },
+  {
+    "id": 421,
+    "offenderId": 9,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-10-22",
+    "status": "Pending"
+  },
+  {
+    "id": 422,
+    "offenderId": 2,
+    "description": "Violent conduct",
+    "severity": "Medium",
+    "date": "2025-10-18",
+    "status": "Pending"
+  },
+  {
+    "id": 423,
+    "offenderId": 30,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-09-13",
+    "status": "Pending"
+  },
+  {
+    "id": 424,
+    "offenderId": 3,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-12-15",
+    "status": "Under Review"
+  },
+  {
+    "id": 425,
+    "offenderId": 16,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-04-12",
+    "status": "Under Review"
+  },
+  {
+    "id": 426,
+    "offenderId": 4,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-08-17",
+    "status": "Under Review"
+  },
+  {
+    "id": 427,
+    "offenderId": 2,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-10-15",
+    "status": "Pending"
+  },
+  {
+    "id": 428,
+    "offenderId": 17,
+    "description": "Abusive language",
+    "severity": "High",
+    "date": "2025-04-09",
+    "status": "Under Review"
+  },
+  {
+    "id": 429,
+    "offenderId": 22,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2025-05-28",
+    "status": "Under Review"
+  },
+  {
+    "id": 430,
+    "offenderId": 11,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2025-08-31",
+    "status": "Under Review"
+  },
+  {
+    "id": 431,
+    "offenderId": 9,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-11-26",
+    "status": "Resolved"
+  },
+  {
+    "id": 432,
+    "offenderId": 4,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-10-12",
+    "status": "Resolved"
+  },
+  {
+    "id": 433,
+    "offenderId": 22,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-06-22",
+    "status": "Under Review"
+  },
+  {
+    "id": 434,
+    "offenderId": 22,
+    "description": "Late tackle",
+    "severity": "Low",
+    "date": "2025-05-22",
+    "status": "Under Review"
+  },
+  {
+    "id": 435,
+    "offenderId": 18,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-03-24",
+    "status": "Under Review"
+  },
+  {
+    "id": 436,
+    "offenderId": 23,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-08-29",
+    "status": "Under Review"
+  },
+  {
+    "id": 437,
+    "offenderId": 29,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-06-03",
+    "status": "Pending"
+  },
+  {
+    "id": 438,
+    "offenderId": 12,
+    "description": "Offensive language",
+    "severity": "Low",
+    "date": "2025-11-19",
+    "status": "Under Review"
+  },
+  {
+    "id": 439,
+    "offenderId": 9,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-02-09",
+    "status": "Resolved"
+  },
+  {
+    "id": 440,
+    "offenderId": 21,
+    "description": "Offensive language",
+    "severity": "High",
+    "date": "2025-01-22",
+    "status": "Pending"
+  },
+  {
+    "id": 441,
+    "offenderId": 26,
+    "description": "Abusive language",
+    "severity": "Severe",
+    "date": "2025-08-17",
+    "status": "Under Review"
+  },
+  {
+    "id": 442,
+    "offenderId": 2,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-06-12",
+    "status": "Resolved"
+  },
+  {
+    "id": 443,
+    "offenderId": 13,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Low",
+    "date": "2026-01-15",
+    "status": "Under Review"
+  },
+  {
+    "id": 444,
+    "offenderId": 6,
+    "description": "Violent conduct",
+    "severity": "Medium",
+    "date": "2026-01-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 445,
+    "offenderId": 11,
+    "description": "Abusive language",
+    "severity": "Low",
+    "date": "2025-09-01",
+    "status": "Pending"
+  },
+  {
+    "id": 446,
+    "offenderId": 27,
+    "description": "Abusive language",
+    "severity": "Severe",
+    "date": "2025-01-21",
+    "status": "Pending"
+  },
+  {
+    "id": 447,
+    "offenderId": 5,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2025-04-10",
+    "status": "Under Review"
+  },
+  {
+    "id": 448,
+    "offenderId": 3,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-12-04",
+    "status": "Under Review"
+  },
+  {
+    "id": 449,
+    "offenderId": 15,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-02-03",
+    "status": "Under Review"
+  },
+  {
+    "id": 450,
+    "offenderId": 1,
+    "description": "Time-wasting",
+    "severity": "Low",
+    "date": "2025-12-05",
+    "status": "Resolved"
+  },
+  {
+    "id": 451,
+    "offenderId": 27,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-11-25",
+    "status": "Pending"
+  },
+  {
+    "id": 452,
+    "offenderId": 26,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-09-11",
+    "status": "Resolved"
+  },
+  {
+    "id": 453,
+    "offenderId": 5,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-12-02",
+    "status": "Resolved"
+  },
+  {
+    "id": 454,
+    "offenderId": 17,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-01-28",
+    "status": "Pending"
+  },
+  {
+    "id": 455,
+    "offenderId": 21,
+    "description": "Time-wasting",
+    "severity": "Medium",
+    "date": "2025-03-11",
+    "status": "Pending"
+  },
+  {
+    "id": 456,
+    "offenderId": 28,
+    "description": "Aggressive behavior",
+    "severity": "Severe",
+    "date": "2025-12-23",
+    "status": "Resolved"
+  },
+  {
+    "id": 457,
+    "offenderId": 9,
+    "description": "Late tackle",
+    "severity": "Severe",
+    "date": "2025-12-20",
+    "status": "Pending"
+  },
+  {
+    "id": 458,
+    "offenderId": 20,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2025-10-13",
+    "status": "Pending"
+  },
+  {
+    "id": 459,
+    "offenderId": 2,
+    "description": "Aggressive behavior",
+    "severity": "Medium",
+    "date": "2025-08-26",
+    "status": "Under Review"
+  },
+  {
+    "id": 460,
+    "offenderId": 24,
+    "description": "Dissent towards referee",
+    "severity": "Severe",
+    "date": "2025-04-20",
+    "status": "Pending"
+  },
+  {
+    "id": 461,
+    "offenderId": 12,
+    "description": "Spitting",
+    "severity": "Medium",
+    "date": "2025-02-13",
+    "status": "Resolved"
+  },
+  {
+    "id": 462,
+    "offenderId": 12,
+    "description": "Time-wasting",
+    "severity": "Medium",
+    "date": "2025-05-13",
+    "status": "Under Review"
+  },
+  {
+    "id": 463,
+    "offenderId": 2,
+    "description": "Time-wasting",
+    "severity": "Medium",
+    "date": "2025-08-09",
+    "status": "Pending"
+  },
+  {
+    "id": 464,
+    "offenderId": 29,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-02-15",
+    "status": "Resolved"
+  },
+  {
+    "id": 465,
+    "offenderId": 24,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-10-03",
+    "status": "Under Review"
+  },
+  {
+    "id": 466,
+    "offenderId": 30,
+    "description": "Time-wasting",
+    "severity": "High",
+    "date": "2025-11-15",
+    "status": "Pending"
+  },
+  {
+    "id": 467,
+    "offenderId": 15,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-04-30",
+    "status": "Resolved"
+  },
+  {
+    "id": 468,
+    "offenderId": 14,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-04-08",
+    "status": "Under Review"
+  },
+  {
+    "id": 469,
+    "offenderId": 1,
+    "description": "Late tackle",
+    "severity": "High",
+    "date": "2025-03-31",
+    "status": "Under Review"
+  },
+  {
+    "id": 470,
+    "offenderId": 18,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-08-26",
+    "status": "Pending"
+  },
+  {
+    "id": 471,
+    "offenderId": 12,
+    "description": "Spitting",
+    "severity": "Medium",
+    "date": "2025-11-02",
+    "status": "Under Review"
+  },
+  {
+    "id": 472,
+    "offenderId": 10,
+    "description": "Dissent towards referee",
+    "severity": "High",
+    "date": "2025-01-31",
+    "status": "Resolved"
+  },
+  {
+    "id": 473,
+    "offenderId": 7,
+    "description": "Simulation (diving)",
+    "severity": "Medium",
+    "date": "2025-07-14",
+    "status": "Under Review"
+  },
+  {
+    "id": 474,
+    "offenderId": 28,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-07-01",
+    "status": "Resolved"
+  },
+  {
+    "id": 475,
+    "offenderId": 12,
+    "description": "Late tackle",
+    "severity": "Medium",
+    "date": "2025-04-25",
+    "status": "Pending"
+  },
+  {
+    "id": 476,
+    "offenderId": 17,
+    "description": "Offensive language",
+    "severity": "Medium",
+    "date": "2025-12-10",
+    "status": "Resolved"
+  },
+  {
+    "id": 477,
+    "offenderId": 8,
+    "description": "Offensive language",
+    "severity": "Severe",
+    "date": "2025-12-07",
+    "status": "Under Review"
+  },
+  {
+    "id": 478,
+    "offenderId": 18,
+    "description": "Spitting",
+    "severity": "Severe",
+    "date": "2026-01-16",
+    "status": "Under Review"
+  },
+  {
+    "id": 479,
+    "offenderId": 13,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-07-10",
+    "status": "Resolved"
+  },
+  {
+    "id": 480,
+    "offenderId": 4,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-11-16",
+    "status": "Pending"
+  },
+  {
+    "id": 481,
+    "offenderId": 29,
+    "description": "Aggressive behavior",
+    "severity": "Medium",
+    "date": "2025-05-24",
+    "status": "Resolved"
+  },
+  {
+    "id": 482,
+    "offenderId": 21,
+    "description": "Aggressive behavior",
+    "severity": "High",
+    "date": "2026-01-13",
+    "status": "Pending"
+  },
+  {
+    "id": 483,
+    "offenderId": 20,
+    "description": "Abusive language",
+    "severity": "High",
+    "date": "2025-03-07",
+    "status": "Pending"
+  },
+  {
+    "id": 484,
+    "offenderId": 15,
+    "description": "Simulation (diving)",
+    "severity": "Severe",
+    "date": "2025-03-05",
+    "status": "Pending"
+  },
+  {
+    "id": 485,
+    "offenderId": 21,
+    "description": "Violent conduct",
+    "severity": "High",
+    "date": "2025-06-27",
+    "status": "Pending"
+  },
+  {
+    "id": 486,
+    "offenderId": 22,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-08-04",
+    "status": "Resolved"
+  },
+  {
+    "id": 487,
+    "offenderId": 11,
+    "description": "Spitting",
+    "severity": "High",
+    "date": "2025-06-21",
+    "status": "Resolved"
+  },
+  {
+    "id": 488,
+    "offenderId": 12,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-04-12",
+    "status": "Under Review"
+  },
+  {
+    "id": 489,
+    "offenderId": 21,
+    "description": "Abusive language",
+    "severity": "Medium",
+    "date": "2025-04-19",
+    "status": "Pending"
+  },
+  {
+    "id": 490,
+    "offenderId": 7,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-05-19",
+    "status": "Resolved"
+  },
+  {
+    "id": 491,
+    "offenderId": 27,
+    "description": "Simulation (diving)",
+    "severity": "High",
+    "date": "2026-01-12",
+    "status": "Under Review"
+  },
+  {
+    "id": 492,
+    "offenderId": 18,
+    "description": "Dissent towards referee",
+    "severity": "Medium",
+    "date": "2025-05-04",
+    "status": "Resolved"
+  },
+  {
+    "id": 493,
+    "offenderId": 5,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Medium",
+    "date": "2025-07-28",
+    "status": "Pending"
+  },
+  {
+    "id": 494,
+    "offenderId": 25,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-04-18",
+    "status": "Resolved"
+  },
+  {
+    "id": 495,
+    "offenderId": 26,
+    "description": "Dissent towards referee",
+    "severity": "Low",
+    "date": "2025-05-11",
+    "status": "Pending"
+  },
+  {
+    "id": 496,
+    "offenderId": 26,
+    "description": "Violent conduct",
+    "severity": "Low",
+    "date": "2025-05-14",
+    "status": "Resolved"
+  },
+  {
+    "id": 497,
+    "offenderId": 12,
+    "description": "Unsportsmanlike conduct",
+    "severity": "High",
+    "date": "2025-05-13",
+    "status": "Pending"
+  },
+  {
+    "id": 498,
+    "offenderId": 4,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Low",
+    "date": "2025-09-12",
+    "status": "Pending"
+  },
+  {
+    "id": 499,
+    "offenderId": 8,
+    "description": "Unsportsmanlike conduct",
+    "severity": "Severe",
+    "date": "2025-10-31",
+    "status": "Under Review"
+  },
+  {
+    "id": 500,
+    "offenderId": 29,
+    "description": "Abusive language",
+    "severity": "High",
+    "date": "2025-05-07",
+    "status": "Under Review"
+  }
+]

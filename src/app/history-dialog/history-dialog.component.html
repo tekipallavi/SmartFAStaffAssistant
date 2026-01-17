@@ -1,0 +1,55 @@
+<div class="dialog-container">
+  <div class="header">
+    <h2>Match History Analysis</h2>
+  </div>
+
+  <div class="content" *ngIf="match; else loading">
+    <p><strong>Match:</strong> {{ match.matchName }}</p>
+    <p><strong>Date:</strong> {{ match.date }}</p>
+
+    <div *ngIf="match.players && match.players.length > 0; else noPlayers">
+      <mat-form-field appearance="fill" class="full-width">
+        <mat-label>Select Offender</mat-label>
+        <mat-select [(ngModel)]="selectedOffender">
+          <mat-option *ngFor="let player of match.players" [value]="player.playerId">
+            {{ player.playerName }} ({{ player.countyname }})
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+
+      <mat-form-field appearance="fill" class="full-width">
+        <mat-label>Select Criteria</mat-label>
+        <mat-select [(ngModel)]="selectedCriteria">
+          <mat-option *ngFor="let criteria of criteriaOptions" [value]="criteria.value">
+            {{ criteria.label }}
+          </mat-option>
+        </mat-select>
+      </mat-form-field>
+
+      <button mat-raised-button color="primary" (click)="generateAnalysis()" >
+        <span *ngIf="!loading">Generate Analysis</span>
+        <mat-spinner diameter="20" *ngIf="loading"></mat-spinner>
+      </button>
+    </div>
+
+    <ng-template #noPlayers>
+      <p>No players available for this match.</p>
+    </ng-template>
+
+    <div class="analysis" *ngIf="analysis">
+      <h3>Analysis:</h3>
+      <p>{{ analysis }}</p>
+    </div>
+  </div>
+
+  <ng-template #loading>
+    <div class="content">
+      <mat-spinner></mat-spinner>
+      <p>Loading match details...</p>
+    </div>
+  </ng-template>
+
+  <div class="actions">
+    <button mat-button (click)="onClose()">Close</button>
+  </div>
+</div>
