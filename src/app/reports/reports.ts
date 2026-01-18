@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
 import { MatTableModule } from '@angular/material/table';
@@ -6,7 +6,7 @@ import { MatPaginatorModule, PageEvent } from '@angular/material/paginator';
 import { MatButtonModule } from '@angular/material/button';
 import { MatDialogModule, MatDialog } from '@angular/material/dialog';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
-import { MatMenuModule } from '@angular/material/menu';
+import { MatMenuModule, MatMenu } from '@angular/material/menu';
 import { MatDividerModule } from '@angular/material/divider';
 import { MatIconModule } from '@angular/material/icon';
 import { FormsModule } from '@angular/forms';
@@ -36,6 +36,8 @@ export interface Charge {
   styleUrl: './reports.css',
 })
 export class Reports implements OnInit {
+  @ViewChild('contextMenu') contextMenu!: MatMenu;
+  
   displayedColumns: string[] = ['caseName', 'submittedDate', 'incidentDate', 'incident', 'status', 'county', 'reportCategory', 'actions'];
   dataSource: Charge[] = [];
 
@@ -48,13 +50,47 @@ export class Reports implements OnInit {
     private http: HttpClient,
     private dialog: MatDialog,
     private storageService: StorageService
-  ) {}
+  ) { }
 
   ngOnInit() {
     this.fetchReports();
   }
 
   fetchReports() {
+    let mockData = [
+            {
+              "caseName": "CH0001",
+              "submittedDate": "2023-01-01",
+              "incidentDate": "2023-01-01",
+              "incident": "Manchester United vs Liverpool",
+              "status": "Open",
+              "county": "Greater Manchester",
+              "reportCategory": "Serious",
+              "offender": "Wayne Rooney",
+              "matchId": 1
+            },
+            {
+              "caseName": "CH0002",
+              "submittedDate": "2023-01-02",
+              "incidentDate": "2023-01-02",
+              "incident": "Arsenal vs Chelsea",
+              "status": "Closed",
+              "county": "London",
+              "reportCategory": "Non Serious",
+              "offender": "David Beckham",
+              "matchId": 2
+            },
+            {
+              "caseName": "CH0003",
+              "submittedDate": "2023-01-03",
+              "incidentDate": "2023-01-03",
+              "incident": "Tottenham vs Manchester City",
+              "status": "Open",
+              "county": "London",
+              "reportCategory": "Serious",
+              "offender": "Cristiano Ronaldo",
+              "matchId": 3
+            }];
     this.http.get<{ success: boolean; data: Charge[] }>('http://localhost:3000/api/get-reports')
       .subscribe({
         next: (response) => {
@@ -65,17 +101,20 @@ export class Reports implements OnInit {
         error: (error) => {
           console.error('Error fetching reports:', error);
           // Fallback to mock data
-          this.dataSource = [
-            { caseName: 'Case 1', submittedDate: '2023-01-01', incidentDate: '2023-01-01', incident: 'Team A vs Team B', status: 'Open', county: 'County 1', reportCategory: 'Serious', matchId: 1 },
-            { caseName: 'Case 2', submittedDate: '2023-01-02', incidentDate: '2023-01-02', incident: 'Team C vs Team D', status: 'Closed', county: 'County 2', reportCategory: 'Non Serious', matchId: 2 },
-          ];
+          this.dataSource = mockData
         }
       });
+      // Removed
+      this.dataSource = mockData;
   }
 
   onPageChange(event: PageEvent) {
     this.pageIndex = event.pageIndex;
     this.pageSize = event.pageSize;
+  }
+
+  onCellClick(event: MouseEvent): void {
+    event.stopPropagation();
   }
 
   runAIAnalysis() {

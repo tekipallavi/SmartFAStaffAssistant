@@ -67,11 +67,129 @@ export class HistoryDialogComponent {
           this.cdr.detectChanges();
         }
       }, error => {
-        console.error('Error loading match:', error);
+       /*  console.error('Error loading match:', error);
         this.snackBar.open('Error loading match details', 'Close', { duration: 3000 });
         this.match = { matchId: this.data.matchId, matchName: 'Error loading match', date: '', players: [] };
-        this.cdr.detectChanges();
+        this.cdr.detectChanges(); */
       });
+    // Removed
+    this.match = {
+      "matchId": 1,
+      "matchName": "Manchester United vs Liverpool",
+      "date": "2023-01-01",
+      "players": [
+        {
+          "playerId": 1,
+          "playerName": "Wayne Rooney",
+          "countyname": "Greater Manchester"
+        },
+        {
+          "playerId": 31,
+          "playerName": "Bruno Fernandes",
+          "countyname": "Greater Manchester"
+        },
+        {
+          "playerId": 32,
+          "playerName": "Marcus Rashford",
+          "countyname": "Greater Manchester"
+        },
+        {
+          "playerId": 33,
+          "playerName": "Jadon Sancho",
+          "countyname": "Greater Manchester"
+        },
+        {
+          "playerId": 34,
+          "playerName": "Anthony Martial",
+          "countyname": "Greater Manchester"
+        },
+        {
+          "playerId": 35,
+          "playerName": "Paul Pogba",
+          "countyname": "Greater Manchester"
+        },
+        {
+          "playerId": 36,
+          "playerName": "Cristiano Ronaldo",
+          "countyname": "Greater Manchester"
+        },
+        {
+          "playerId": 37,
+          "playerName": "David de Gea",
+          "countyname": "Greater Manchester"
+        },
+        {
+          "playerId": 38,
+          "playerName": "Luke Shaw",
+          "countyname": "Greater Manchester"
+        },
+        {
+          "playerId": 39,
+          "playerName": "Harry Maguire",
+          "countyname": "Greater Manchester"
+        },
+        {
+          "playerId": 40,
+          "playerName": "Victor Lindelof",
+          "countyname": "Greater Manchester"
+        },
+        {
+          "playerId": 41,
+          "playerName": "Mohamed Salah",
+          "countyname": "Merseyside"
+        },
+        {
+          "playerId": 42,
+          "playerName": "Sadio Mane",
+          "countyname": "Merseyside"
+        },
+        {
+          "playerId": 43,
+          "playerName": "Virgil van Dijk",
+          "countyname": "Merseyside"
+        },
+        {
+          "playerId": 44,
+          "playerName": "Alisson Becker",
+          "countyname": "Merseyside"
+        },
+        {
+          "playerId": 45,
+          "playerName": "Trent Alexander-Arnold",
+          "countyname": "Merseyside"
+        },
+        {
+          "playerId": 46,
+          "playerName": "Andy Robertson",
+          "countyname": "Merseyside"
+        },
+        {
+          "playerId": 47,
+          "playerName": "Jordan Henderson",
+          "countyname": "Merseyside"
+        },
+        {
+          "playerId": 48,
+          "playerName": "Fabinho",
+          "countyname": "Merseyside"
+        },
+        {
+          "playerId": 49,
+          "playerName": "Joel Matip",
+          "countyname": "Merseyside"
+        },
+        {
+          "playerId": 50,
+          "playerName": "Diogo Jota",
+          "countyname": "Merseyside"
+        },
+        {
+          "playerId": 51,
+          "playerName": "Curtis Jones",
+          "countyname": "Merseyside"
+        }
+      ]
+    };
   }
 
   generateAnalysis() {

@@ -4,12 +4,13 @@ import { MatCardModule } from '@angular/material/card';
 import { MatIconModule } from '@angular/material/icon';
 import { MatButtonModule } from '@angular/material/button';
 import { MatDividerModule } from '@angular/material/divider';
+import { MatTabsModule } from '@angular/material/tabs';
 import { StorageService, CaseAction } from  '../services/storage.service';
 
 @Component({
   selector: 'app-activities',
   standalone: true,
-  imports: [CommonModule, MatCardModule, MatIconModule, MatButtonModule, MatDividerModule],
+  imports: [CommonModule, MatCardModule, MatIconModule, MatButtonModule, MatDividerModule, MatTabsModule],
   templateUrl: './activities.html',
   styleUrl: './activities.css',
 })
@@ -24,6 +25,14 @@ export class Activities implements OnInit {
 
   loadActions(): void {
     this.actions = this.storageService.getAllActions();
+  }
+
+  getFlaggedActions(): CaseAction[] {
+    return this.actions.filter(a => a.action === 'flag' && a.reminderText !== 'unflagged');
+  }
+
+  getReminderActions(): CaseAction[] {
+    return this.actions.filter(a => a.action === 'reminder');
   }
 
   getActionIcon(action: CaseAction): string {

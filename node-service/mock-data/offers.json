@@ -1,212 +1,84 @@
 [
   {
-    "id": 1,
-    "name": "Wayne Rooney",
-    "history": "Multiple incidents of dissent and aggressive behavior on pitch.",
-    "team": "Manchester United",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 2,
-    "name": "David Beckham",
-    "history": "Known for sportsmanship, minimal disciplinary issues.",
-    "team": "Retired",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 3,
-    "name": "Cristiano Ronaldo",
-    "history": "Occasional bookings for simulation and dissent.",
-    "team": "Al Nassr",
-    "socialMediaActivity": "Very High"
-  },
-  {
-    "id": 4,
-    "name": "Lionel Messi",
-    "history": "Rare disciplinary actions, focused on play.",
-    "team": "Inter Miami",
-    "socialMediaActivity": "Very High"
-  },
-  {
-    "id": 5,
-    "name": "Neymar Jr",
-    "history": "Frequent bookings for diving and petulance.",
-    "team": "Al Hilal",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 6,
-    "name": "Kylian Mbappe",
-    "history": "Some incidents of simulation and dissent.",
-    "team": "Paris Saint-Germain",
-    "socialMediaActivity": "Very High"
-  },
-  {
-    "id": 7,
-    "name": "Erling Haaland",
-    "history": "Minimal issues, focused on scoring.",
-    "team": "Manchester City",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 8,
-    "name": "Mohamed Salah",
-    "history": "Occasional dissent, generally well-behaved.",
-    "team": "Liverpool",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 9,
-    "name": "Kevin De Bruyne",
-    "history": "Rare bookings, excellent conduct.",
-    "team": "Manchester City",
-    "socialMediaActivity": "Medium"
-  },
-  {
-    "id": 10,
-    "name": "Harry Kane",
-    "history": "Some simulation incidents.",
-    "team": "Bayern Munich",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 11,
-    "name": "Jude Bellingham",
-    "history": "Young player, minimal disciplinary record.",
-    "team": "Real Madrid",
-    "socialMediaActivity": "Very High"
-  },
-  {
-    "id": 12,
-    "name": "Bukayo Saka",
-    "history": "Generally clean record.",
-    "team": "Arsenal",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 13,
-    "name": "Phil Foden",
-    "history": "Occasional bookings for youth.",
-    "team": "Manchester City",
-    "socialMediaActivity": "Medium"
-  },
-  {
-    "id": 14,
-    "name": "Trent Alexander-Arnold",
-    "history": "Some dissent issues.",
-    "team": "Liverpool",
-    "socialMediaActivity": "Medium"
-  },
-  {
-    "id": 15,
-    "name": "Marcus Rashford",
-    "history": "Bookings for aggression.",
-    "team": "Manchester United",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 16,
-    "name": "Bruno Fernandes",
-    "history": "Frequent bookings for dissent.",
-    "team": "Manchester United",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 17,
-    "name": "Son Heung-min",
-    "history": "Generally well-behaved.",
-    "team": "Tottenham",
-    "socialMediaActivity": "Medium"
-  },
-  {
-    "id": 18,
-    "name": "Raheem Sterling",
-    "history": "Some simulation incidents.",
-    "team": "Chelsea",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 19,
-    "name": "Jamie Vardy",
-    "history": "Occasional dissent.",
-    "team": "Leicester",
-    "socialMediaActivity": "Medium"
-  },
-  {
-    "id": 20,
-    "name": "Harry Maguire",
-    "history": "Recent bookings for errors.",
-    "team": "Manchester United",
-    "socialMediaActivity": "Medium"
-  },
-  {
-    "id": 21,
-    "name": "Mason Mount",
-    "history": "Clean record.",
-    "team": "Manchester United",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 22,
-    "name": "Callum Wilson",
-    "history": "Minimal issues.",
-    "team": "Newcastle",
-    "socialMediaActivity": "Medium"
-  },
-  {
-    "id": 23,
-    "name": "Jarrod Bowen",
-    "history": "Some bookings.",
-    "team": "West Ham",
-    "socialMediaActivity": "Medium"
-  },
-  {
-    "id": 24,
-    "name": "Che Adams",
-    "history": "Generally compliant.",
-    "team": "Southampton",
-    "socialMediaActivity": "Low"
-  },
-  {
-    "id": 25,
-    "name": "Alexandre Lacazette",
-    "history": "Occasional issues.",
-    "team": "Lyon",
-    "socialMediaActivity": "Medium"
-  },
-  {
-    "id": 26,
-    "name": "Ivan Toney",
-    "history": "Recent simulation bookings.",
-    "team": "Brentford",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 27,
-    "name": "Chris Wood",
-    "history": "Minimal disciplinary actions.",
-    "team": "Nottingham Forest",
-    "socialMediaActivity": "Low"
-  },
-  {
-    "id": 28,
-    "name": "Rodrigo",
-    "history": "Some dissent.",
-    "team": "Leeds",
-    "socialMediaActivity": "Medium"
-  },
-  {
-    "id": 29,
-    "name": "Declan Rice",
-    "history": "Clean record.",
-    "team": "Arsenal",
-    "socialMediaActivity": "High"
-  },
-  {
-    "id": 30,
-    "name": "Martin Odegaard",
-    "history": "Excellent conduct.",
-    "team": "Arsenal",
-    "socialMediaActivity": "High"
-  }
+    "offenderName": "Ahmed Idris",
+    "offenderTeamName": "First",
+    "offenderAgeGroup": "Open",
+    "offenderFan": 77745421,
+    "offenderTeamId": 384351,
+    "offerSuspension": {
+        "suspensionId": 25,
+        "suspensionType": "Match",
+        "suspensionName": "Individual Match based Suspensions (misconduct)",
+        "startDate": "2026-01-21T00:00:00",
+        "duration": 2,
+        "footballActivityIds": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    },
+    "offenderOrgId": 76133,
+    "offenderOrgName": "Benson Cresconians",
+    "offerTypeId": 1,
+    "offerType": "Participant Offer",
+    "chargeCode": "E14",
+    "chargeNumber": null,
+    "chargeCodeId": 5,
+    "chargeCodeDescription": "Failure to report Misconduct",
+    "additionalChargeCode": null,
+    "additionalChargeCodeId": null,
+    "chargeCodeSubTypeId": null,
+    "chargeCodeSubType": null,
+    "wording": "<p>It is alleged that <strong>&lt;CLUB NAME&gt;</strong> failed to ensure that directors, players, officials, employees, servants, representatives attending any match do not behave in a way which is improper, offensive, violent, threatening, abusive, indecent, insulting, or provocative contrary to FA Rule E20.1. This refers to the allegation that <strong>&lt;BRIEF DETAILS OF INCIDENT&gt;</strong> or similar. </p><p></p><p>The Association intends to rely on the following information, included in the charge evidence document:</p><p></p><p>1. Report(s) and information supplied by the Match Official(s)</p><p>2. Statements from <strong>&lt;CLUB 1&gt;</strong></p><p>3. Statements from <strong>&lt;CLUB 2&gt;</strong></p><p></p><p>If any charge is found Proven the Commission will refer to The FA Sanction Guidelines and relevant FA Regulations when deciding on the sanction. They will also take account of any mitigating or aggravating factors. The Commission may deviate from the sanction guidelines where necessary, but where a mandatory minimum sanction is stated in FA Regulations, they cannot go below this. The relevant sanctions are listed below: </p><p></p><p><strong>&lt;NLS – Low, £0-100, Mid, £100-£200, High £200-£400&gt;</strong></p><p></p><p><strong>&lt;Outside NLS - Low, £0-70, Mid, £70-£140, High £140-£300&gt;</strong></p><p></p><p><strong>&lt;Youth - Low, £0-£50, Mid, £50-£100, High £100-£200&gt;</strong></p><p></p><p>If a personal hearing is requested, this is likely to be heard on a weekday evening on a date selected by the County FA. A written response should be submitted with the response to the charge if a personal hearing is requested, along with any dates within the next month that would be unsuitable for the hearing. </p><p></p><p>Please see links to useful guides:</p><p></p><p>Disciplinary Sanction Guidelines – https://bit.ly/3xR4tzd </p><p>Grassroots Disciplinary Guide – https://bit.ly/3WsC9eP </p><p>Hearing Support Guide – https://bit.ly/3LoWNHz</p>",
+    "additionalWording": null,
+    "offerProducts": [
+        {
+            "productType": "Misconduct Admin Fee",
+            "productOriginalFee": 15.000,
+            "productId": 3,
+            "fee": 15.00
+        },
+        {
+            "productType": "Cost Order",
+            "productOriginalFee": null,
+            "productId": 7,
+            "fee": 22.00
+        },
+        {
+            "productType": "Misconduct Fine",
+            "productOriginalFee": null,
+            "productId": 27,
+            "fee": 333.00
+        }
+    ],
+    "offerPenalties": {
+        "pointsDeduction": 1,
+        "penaltyPoint": 22
+    },
+    "offerDocument": [
+        {
+            "documentId": 48603,
+            "documentGuid": "d3fdfdd4-6cf2-4a4f-8d5c-450aff1be618",
+            "documentName": "FTO0000002 - Offer Letter.pdf",
+            "documentType": "Offer Letter",
+            "uploadedDate": "2026-01-07T08:04:13.037",
+            "uploadedBy": "Danny Mcconnell",
+            "role": "Support Admin"
+        }
+    ],
+    "offerEducationOrder": {
+        "offerEducationOrderId": 33,
+        "offerNumber": "FTO0000002",
+        "location": "Online",
+        "completedByDate": "2026-01-19T00:00:00",
+        "notes": "This is important to complete the education order for the charges imposed within the dedicated time"
+    },
+    "offerStatus": "Draft",
+    "offerCreatedDate": null,
+    "responseDueDate": null,
+    "offerId": 2,
+    "offerNumber": "FTO0000002"
+}
 ]
