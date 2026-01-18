@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "code": "E1.2",
+    "description": "Failed to comply with Rules and Regulations of the Football Association",
+    "isAdditionalChargeRequired": false,
+    "seriousTypeId": 2,
+    "additionalChargeCode": null,
+    "chargeCodeSubTypes": []
+  },
+  {
+    "id": 2,
+    "code": "E10",
+    "description": "(Participant) Failed to comply with a decision of the Association",
+    "isAdditionalChargeRequired": false,
+    "seriousTypeId": 2,
+    "additionalChargeCode": null,
+    "chargeCodeSubTypes": []
+  },
+  {
+    "id": 3,
+    "code": "E12",
+    "description": "(Club) Failure to comply with decision of the Association",
+    "isAdditionalChargeRequired": false,
+    "seriousTypeId": 2,
+    "additionalChargeCode": null,
+    "chargeCodeSubTypes": []
+  },
+  {
+    "id": 4,
+    "code": "E13",
+    "description": "(Affiliated Association, League or Club) Appointing a participant who is suspended. Permitting a suspended participant be appointed or to continue in role",
+    "isAdditionalChargeRequired": false,
+    "seriousTypeId": 2,
+    "additionalChargeCode": null,
+    "chargeCodeSubTypes": []
+  },
+  {
+    "id": 5,
+    "code": "E14",
+    "description": "Failure to report Misconduct",
+    "isAdditionalChargeRequired": false,
+    "seriousTypeId": 2,
+    "additionalChargeCode": null,
+    "chargeCodeSubTypes": []
+  },
+  {
+    "id": 6,
+    "code": "E15",
+    "description": "Making a vexatious or frivolous report",
+    "isAdditionalChargeRequired": false,
+    "seriousTypeId": 2,
+    "additionalChargeCode": null,
+    "chargeCodeSubTypes": []
+  },
+  {
+    "id": 7,
+    "code": "E20",
+    "description": "Failed to ensure directors, players, officials, employees, servants, representatives attending any Match do not behave in a way which is improper, offensive, violent, threatening, abusive, indecent, insulting or provocative",
+    "isAdditionalChargeRequired": false,
+    "seriousTypeId": 3,
+    "additionalChargeCode": {
+      "id": 8,
+      "code": "E21",
+      "description": "Failed to ensure spectators and/or its supporters (and anyone purporting to be its supporters or followers) do not behave in a way which is improper, offensive, violent, threatening, abusive, indecent, insulting or provocative whilst attending any Match",
+      "seriousTypeId": 3
+    },
+    "chargeCodeSubTypes": []
+  },
+  {
+    "id": 8,
+    "code": "E21",
+    "description": "Failed to ensure spectators and/or its supporters (and anyone purporting to be its supporters or followers) do not behave in a way which is improper, offensive, violent, threatening, abusive, indecent, insulting or provocative whilst attending any Match",
+    "isAdditionalChargeRequired": false,
+    "seriousTypeId": 3,
+    "additionalChargeCode": {
+      "id": 7,
+      "code": "E20",
+      "description": "Failed to ensure directors, players, officials, employees, servants, representatives attending any Match do not behave in a way which is improper, offensive, violent, threatening, abusive, indecent, insulting or provocative",
+      "seriousTypeId": 3
+    },
+    "chargeCodeSubTypes": []
+  },
+  {
+    "id": 9,
+    "code": "E3.1",
+    "description": "General Behaviour",
+    "isAdditionalChargeRequired": false,
+    "seriousTypeId": 2,
+    "additionalChargeCode": {
+      "id": 10,
+      "code": "E3.2",
+      "description": "Improper Conduct - aggravated by a persons Ethnic Origin, Colour, Race, Nationality, Faith, Gender, Gender Reassignment, Sexual Orientation or Disability",
+      "seriousTypeId": 1
+    },
+    "chargeCodeSubTypes": [
+      {
+        "id": 1,
+        "description": "General Behaviour",
+        "seriousTypeId": 2
+      },
+      {
+        "id": 2,
+        "description": "Not acting in the best interests of the game",
+        "seriousTypeId": 2
+      },
+      {
+        "id": 3,
+        "description": "Acting in a manner which is improper or brings the game into disrepute",
+        "seriousTypeId": 2
+      },
+      {
+        "id": 4,
+        "description": "Violent Conduct",
+        "seriousTypeId": 2
+      },
+      {
+        "id": 5,
+        "description": "Serious Foul Play",
+        "seriousTypeId": 2
+      },
+      {
+        "id": 6,
+        "description": "Threatening Words or Behaviour",
+        "seriousTypeId": 2
+      },
+      {
+        "id": 7,
+        "description": "Threatening Words or Behaviour Towards a Match Official",
+        "seriousTypeId": 2
+      },
+      {
+        "id": 8,
+        "description": "Abusive Words or Behaviour",
+        "seriousTypeId": 2
+      },
+      {
+        "id": 9,
+        "description": "Abusive Words or Behaviour Towards a Match Official",
+        "seriousTypeId": 2
+      },
+      {
+        "id": 10,
+        "description": "Indecent Or Insulting Words or Behaviour",
+        "seriousTypeId": 2
+      },
+      {
+        "id": 11,
+        "description": "Physical Contact or Attempted Physical Contact on a Match Official",
+        "seriousTypeId": 1
+      },
+      {
+        "id": 12,
+        "description": "Assault Or Attempted Assault on a Match Official",
+        "seriousTypeId": 1
+      },
+      {
+        "id": 13,
+        "description": "Assault By Participant on Participant",
+        "seriousTypeId": 1
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "code": "E3.2",
+    "description": "Improper Conduct - aggravated by a persons Ethnic Origin, Colour, Race, Nationality, Faith, Gender, Gender Reassignment, Sexual Orientation or Disability",
+    "isAdditionalChargeRequired": true,
+    "seriousTypeId": 1,
+    "additionalChargeCode": {
+      "id": 9,
+      "code": "E3.1",
+      "description": "General Behaviour",
+      "seriousTypeId": 2
+    },
+    "chargeCodeSubTypes": []
+  },
+  {
+    "id": 11,
+    "code": "E4",
+    "description": "Discrimination",
+    "isAdditionalChargeRequired": false,
+    "seriousTypeId": 1,
+    "additionalChargeCode": null,
+    "chargeCodeSubTypes": []
+  },
+  {
+    "id": 12,
+    "code": "MPM",
+    "description": "Multi Player Misconduct",
+    "isAdditionalChargeRequired": false,
+    "seriousTypeId": 2,
+    "additionalChargeCode": null,
+    "chargeCodeSubTypes": []
+  }
+]

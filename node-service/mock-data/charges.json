@@ -80,5 +80,213 @@
     "responseDueDate": null,
     "offerId": 2,
     "offerNumber": "FTO0000002"
-}
+  },
+  {
+    "offenderName": "Wayne Rooney",
+    "offenderTeamName": "Manchester United",
+    "offenderAgeGroup": "Open",
+    "offenderFan": 77745422,
+    "offenderTeamId": 384352,
+    "offerSuspension": {
+        "suspensionId": 26,
+        "suspensionType": "Match",
+        "suspensionName": "Individual Match based Suspensions (misconduct)",
+        "startDate": "2022-08-15T00:00:00",
+        "duration": 3,
+        "footballActivityIds": [
+            1,
+            2
+        ]
+    },
+    "offenderOrgId": 76134,
+    "offenderOrgName": "Manchester United",
+    "offerTypeId": 1,
+    "offerType": "Participant Offer",
+    "chargeCode": "E20",
+    "chargeNumber": null,
+    "chargeCodeId": 7,
+    "chargeCodeDescription": "Failed to ensure directors, players, officials, employees, servants, representatives attending any Match do not behave in a way which is improper, offensive, violent, threatening, abusive, indecent, insulting or provocative",
+    "additionalChargeCode": null,
+    "additionalChargeCodeId": null,
+    "chargeCodeSubTypeId": null,
+    "chargeCodeSubType": null,
+    "wording": "<p>It is alleged that <strong>Wayne Rooney</strong> behaved in a way which is improper, offensive, violent, threatening, abusive, indecent, insulting, or provocative during a match contrary to FA Rule E20.1.</p>",
+    "additionalWording": null,
+    "offerProducts": [
+        {
+            "productType": "Misconduct Admin Fee",
+            "productOriginalFee": 15.000,
+            "productId": 3,
+            "fee": 15.00
+        },
+        {
+            "productType": "Misconduct Fine",
+            "productOriginalFee": null,
+            "productId": 27,
+            "fee": 250.00
+        }
+    ],
+    "offerPenalties": {
+        "pointsDeduction": 0,
+        "penaltyPoint": 3
+    },
+    "offerDocument": [
+        {
+            "documentId": 48604,
+            "documentGuid": "d3fdfdd4-6cf2-4a4f-8d5c-450aff1be619",
+            "documentName": "FTO0000003 - Offer Letter.pdf",
+            "documentType": "Offer Letter",
+            "uploadedDate": "2022-08-10T08:04:13.037",
+            "uploadedBy": "John Smith",
+            "role": "Support Admin"
+        }
+    ],
+    "offerEducationOrder": null,
+    "offerStatus": "Proven",
+    "offerCreatedDate": "2022-08-10T00:00:00",
+    "responseDueDate": "2022-08-20T00:00:00",
+    "offerId": 3,
+    "offerNumber": "FTO0000003"
+  },
+  {
+    "offenderName": "Wayne Rooney",
+    "offenderTeamName": "Manchester United",
+    "offenderAgeGroup": "Open",
+    "offenderFan": 77745422,
+    "offenderTeamId": 384352,
+    "offerSuspension": {
+        "suspensionId": 27,
+        "suspensionType": "Match",
+        "suspensionName": "Individual Match based Suspensions (misconduct)",
+        "startDate": "2021-11-20T00:00:00",
+        "duration": 2,
+        "footballActivityIds": [
+            3,
+            4
+        ]
+    },
+    "offenderOrgId": 76134,
+    "offenderOrgName": "Manchester United",
+    "offerTypeId": 1,
+    "offerType": "Participant Offer",
+    "chargeCode": "E3.1",
+    "chargeNumber": null,
+    "chargeCodeId": 9,
+    "chargeCodeDescription": "General Behaviour",
+    "additionalChargeCode": null,
+    "additionalChargeCodeId": null,
+    "chargeCodeSubTypeId": 1,
+    "chargeCodeSubType": "General Behaviour",
+    "wording": "<p>It is alleged that <strong>Wayne Rooney</strong> engaged in general improper conduct during a match.</p>",
+    "additionalWording": null,
+    "offerProducts": [
+        {
+            "productType": "Misconduct Admin Fee",
+            "productOriginalFee": 15.000,
+            "productId": 3,
+            "fee": 15.00
+        },
+        {
+            "productType": "Misconduct Fine",
+            "productOriginalFee": null,
+            "productId": 27,
+            "fee": 150.00
+        }
+    ],
+    "offerPenalties": {
+        "pointsDeduction": 0,
+        "penaltyPoint": 2
+    },
+    "offerDocument": [
+        {
+            "documentId": 48605,
+            "documentGuid": "d3fdfdd4-6cf2-4a4f-8d5c-450aff1be620",
+            "documentName": "FTO0000004 - Offer Letter.pdf",
+            "documentType": "Offer Letter",
+            "uploadedDate": "2021-11-15T08:04:13.037",
+            "uploadedBy": "Jane Doe",
+            "role": "Support Admin"
+        }
+    ],
+    "offerEducationOrder": null,
+    "offerStatus": "Proven",
+    "offerCreatedDate": "2021-11-15T00:00:00",
+    "responseDueDate": "2021-11-25T00:00:00",
+    "offerId": 4,
+    "offerNumber": "FTO0000004"
+  },
+  {
+    "offenderName": "Wayne Rooney",
+    "offenderTeamName": "Manchester United",
+    "offenderAgeGroup": "Open",
+    "offenderFan": 77745422,
+    "offenderTeamId": 384352,
+    "offerSuspension": {
+        "suspensionId": 28,
+        "suspensionType": "Match",
+        "suspensionName": "Individual Match based Suspensions (misconduct)",
+        "startDate": "2020-09-10T00:00:00",
+        "duration": 4,
+        "footballActivityIds": [
+            1,
+            2,
+            3
+        ]
+    },
+    "offenderOrgId": 76134,
+    "offenderOrgName": "Manchester United",
+    "offerTypeId": 1,
+    "offerType": "Participant Offer",
+    "chargeCode": "E21",
+    "chargeNumber": null,
+    "chargeCodeId": 8,
+    "chargeCodeDescription": "Failed to ensure spectators and/or its supporters do not behave in a way which is improper, offensive, violent, threatening, abusive, indecent, insulting or provocative whilst attending any Match",
+    "additionalChargeCode": null,
+    "additionalChargeCodeId": null,
+    "chargeCodeSubTypeId": null,
+    "chargeCodeSubType": null,
+    "wording": "<p>It is alleged that <strong>Wayne Rooney</strong> failed to ensure proper conduct of supporters during a match.</p>",
+    "additionalWording": null,
+    "offerProducts": [
+        {
+            "productType": "Misconduct Admin Fee",
+            "productOriginalFee": 15.000,
+            "productId": 3,
+            "fee": 15.00
+        },
+        {
+            "productType": "Cost Order",
+            "productOriginalFee": null,
+            "productId": 7,
+            "fee": 30.00
+        },
+        {
+            "productType": "Misconduct Fine",
+            "productOriginalFee": null,
+            "productId": 27,
+            "fee": 300.00
+        }
+    ],
+    "offerPenalties": {
+        "pointsDeduction": 0,
+        "penaltyPoint": 4
+    },
+    "offerDocument": [
+        {
+            "documentId": 48606,
+            "documentGuid": "d3fdfdd4-6cf2-4a4f-8d5c-450aff1be621",
+            "documentName": "FTO0000005 - Offer Letter.pdf",
+            "documentType": "Offer Letter",
+            "uploadedDate": "2020-09-05T08:04:13.037",
+            "uploadedBy": "Mark Wilson",
+            "role": "Support Admin"
+        }
+    ],
+    "offerEducationOrder": null,
+    "offerStatus": "Proven",
+    "offerCreatedDate": "2020-09-05T00:00:00",
+    "responseDueDate": "2020-09-15T00:00:00",
+    "offerId": 5,
+    "offerNumber": "FTO0000005"
+  }
 ]
