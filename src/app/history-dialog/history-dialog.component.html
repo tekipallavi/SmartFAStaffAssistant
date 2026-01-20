@@ -3,7 +3,7 @@
     <h2>Match History Analysis</h2>
   </div>
 
-  <div class="content" *ngIf="match; else loading">
+  <div class="content" *ngIf="match; else loadingContent">
     <p><strong>Match:</strong> {{ match.matchName }}</p>
     <p><strong>Date:</strong> {{ match.date }}</p>
 
@@ -42,7 +42,7 @@
     </div>
   </div>
 
-  <ng-template #loading>
+  <ng-template #loadingContent>
     <div class="content">
       <mat-spinner></mat-spinner>
       <p>Loading match details...</p>

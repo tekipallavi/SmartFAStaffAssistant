@@ -11,11 +11,14 @@ import { MatDividerModule } from '@angular/material/divider';
 import { MatIconModule } from '@angular/material/icon';
 import { FormsModule } from '@angular/forms';
 import { MatFormFieldModule } from '@angular/material/form-field';
+import { MatInputModule } from '@angular/material/input';
 import { MatSelectModule } from '@angular/material/select';
 import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { HistoryDialogComponent } from '../history-dialog/history-dialog.component';
 import { ReminderDialogComponent } from '../reminder-dialog/reminder-dialog.component';
+import { AiAnalysisDialogComponent } from '../ai-analysis-dialog/ai-analysis-dialog.component';
 import { StorageService } from '../services/storage.service';
+import { ReportsService } from '../services/reports.service';
 
 export interface Charge {
   caseName: string;
@@ -31,7 +34,7 @@ export interface Charge {
 
 @Component({
   selector: 'app-reports',
-  imports: [CommonModule, MatTableModule, MatPaginatorModule, MatButtonModule, MatDialogModule, MatSnackBarModule, FormsModule, MatFormFieldModule, MatSelectModule, MatProgressSpinnerModule, MatMenuModule, MatDividerModule, MatIconModule],
+  imports: [CommonModule, MatTableModule, MatPaginatorModule, MatButtonModule, MatDialogModule, MatSnackBarModule, FormsModule, MatFormFieldModule, MatInputModule, MatSelectModule, MatProgressSpinnerModule, MatMenuModule, MatDividerModule, MatIconModule, AiAnalysisDialogComponent],
   templateUrl: './reports.html',
   styleUrl: './reports.css',
 })
@@ -46,10 +49,14 @@ export class Reports implements OnInit {
   contextMenuPosition = { x: '0px', y: '0px' };
   selectedRow: Charge | null = null;
 
+  inputQuery: string = '';
+  filters: any = '';
+
   constructor(
     private http: HttpClient,
     private dialog: MatDialog,
-    private storageService: StorageService
+    private storageService: StorageService,
+    private reportsService: ReportsService
   ) { }
 
   ngOnInit() {
@@ -118,7 +125,17 @@ export class Reports implements OnInit {
   }
 
   runAIAnalysis() {
-    // Open dialog for criteria
+    const dialogRef = this.dialog.open(AiAnalysisDialogComponent, {
+      width: '500px'
+    });
+
+    dialogRef.afterClosed().subscribe(result => {
+      if (result) {
+        console.log('AI response:', result);
+        // Handle the analysis results here
+        // You can filter the data based on the criteria provided
+      }
+    });
   }
 
   getHistory(matchId: number) {

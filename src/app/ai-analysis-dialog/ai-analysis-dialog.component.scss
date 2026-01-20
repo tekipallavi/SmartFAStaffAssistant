@@ -1,0 +1,14 @@
+.ai-analysis-dialog {
+  .full-width {
+    width: 100%;
+    margin-bottom: 1.5rem;
+  }
+
+  mat-dialog-content {
+    padding: 20px;
+  }
+
+  mat-dialog-actions {
+    padding: 12px 24px;
+  }
+}
