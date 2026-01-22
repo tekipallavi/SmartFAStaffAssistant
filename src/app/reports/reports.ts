@@ -43,6 +43,7 @@ export class Reports implements OnInit {
   
   displayedColumns: string[] = ['caseName', 'submittedDate', 'incidentDate', 'incident', 'status', 'county', 'reportCategory', 'actions'];
   dataSource: Charge[] = [];
+  filteredData: Charge[] = [];
 
   pageSize = 10;
   pageIndex = 0;
@@ -134,8 +135,59 @@ export class Reports implements OnInit {
         console.log('AI response:', result);
         // Handle the analysis results here
         // You can filter the data based on the criteria provided
+
+        this.filterData(result);
       }
     });
+  }
+
+  filterData(criteria: any) {
+    // Example filtering logic based on criteria
+    //filter can be in the format { status: 'Open', county: 'Greater Manchester', reportCategory: 'Serious', offender: 'Wayne Rooney', caseName: 'CH0001', incidentDate: '2023/01/01' }
+    // an additional sort attribute can be provided like "sort: {'submittedDate': 'asc' }"
+    this.filteredData = this.dataSource.filter(report => {
+      let matches = true;
+      if (criteria.status && report.status !== criteria.status) {
+        matches = false;
+      }
+      if (criteria.county && report.county !== criteria.county) {
+        matches = false;
+      }
+      if (criteria.reportCategory && report.reportCategory !== criteria.reportCategory) {
+        matches = false;
+      }
+      if (criteria.offender && report.offender !== criteria.offender) {
+        matches = false;
+      }
+      if (criteria.caseName && report.caseName !== criteria.caseName) {
+        matches = false;
+      }
+      if (criteria.incidentDate && report.incidentDate !== criteria.incidentDate) {
+        matches = false;
+      }
+      return matches;
+    });
+
+    // Implement sorting if provided
+    if (criteria.sort) {
+      const sortKey = Object.keys(criteria.sort)[0];
+      const sortOrder = criteria.sort[sortKey]; // 'asc' or 'desc'
+      if(!sortKey || !sortOrder) return;
+      this.filteredData.sort((a, b) => {
+        const aValue = a[sortKey as keyof Charge];
+        const bValue = b[sortKey as keyof Charge];
+        if (aValue === undefined || bValue === undefined) {
+          return 0;
+        }
+        if (aValue < bValue) {
+          return sortOrder === 'asc' ? -1 : 1;
+        }
+        if (aValue > bValue) {
+          return sortOrder === 'asc' ? 1 : -1;
+        }
+        return 0;
+      });
+    } 
   }
 
   getHistory(matchId: number) {
